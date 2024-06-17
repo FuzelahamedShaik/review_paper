@@ -1,0 +1,5348 @@
+{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "anonymous (2010a)",
+				"description": "<table><tr><td>Title:</td><td>the handbook of crisis communication</td></tr><tr><td>Source:</td><td>wiley ebooks</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1002/9781444314885",
+				"x": -0.6404,
+				"y": 0.0685,
+				"cluster": 7,
+				"weights": {
+					"Links": 23.0000,
+					"Total link strength": 63.0000,
+					"Citations": 423.0000,
+					"Norm. citations": 6.8780
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 423.0000,
+					"Norm. citations": 6.8780
+				}
+			},
+			{
+				"id": 2,
+				"label": "oscar rodríguez-espíndola (2018)",
+				"description": "<table><tr><td>Authors:</td><td>oscar rodríguez-espíndola; pável albores; christopher brewster</td></tr><tr><td>Title:</td><td>disaster preparedness in humanitarian logistics: a collaborative approach for resource management in floods</td></tr><tr><td>Source:</td><td>european journal of operational research, 264(3), 978-993</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ejor.2017.01.021",
+				"x": -0.6387,
+				"y": -0.1042,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 8.0000,
+					"Citations": 146.0000,
+					"Norm. citations": 6.3478
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 146.0000,
+					"Norm. citations": 6.3478
+				}
+			},
+			{
+				"id": 3,
+				"label": "arshad nawaz malik (2021)",
+				"description": "<table><tr><td>Authors:</td><td>arshad nawaz malik; m. laeeq khan; anabel quan‐haase</td></tr><tr><td>Title:</td><td>public health agencies outreach through instagram during the covid-19 pandemic: crisis and emergency risk communication perspective</td></tr><tr><td>Source:</td><td>international journal of disaster risk reduction, 61, 102346-102346</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijdrr.2021.102346",
+				"x": -0.5342,
+				"y": -0.0328,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Citations": 54.0000,
+					"Norm. citations": 12.5357
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 54.0000,
+					"Norm. citations": 12.5357
+				}
+			},
+			{
+				"id": 4,
+				"label": "anonymous (2016)",
+				"description": "<table><tr><td>Title:</td><td>the handbook of international crisis communication research</td></tr><tr><td>Source:</td><td>wiley ebooks</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1002/9781118516812",
+				"x": 0.0604,
+				"y": 1.0033,
+				"cluster": 18,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 52.0000,
+					"Norm. citations": 5.5059
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 52.0000,
+					"Norm. citations": 5.5059
+				}
+			},
+			{
+				"id": 5,
+				"label": "joseph p. mazer (2015)",
+				"description": "<table><tr><td>Authors:</td><td>joseph p. mazer; blair thompson; jessica cherry; mattie u. russell; holly j. payne; e. gail kirby; william pfohl</td></tr><tr><td>Title:</td><td>communication in the face of a school crisis: examining the volume and content of social media mentions during active shooter incidents</td></tr><tr><td>Source:</td><td>computers in human behavior, 53, 238-248</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.chb.2015.06.040",
+				"x": -0.6214,
+				"y": -0.0357,
+				"cluster": 5,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 11.0000,
+					"Citations": 47.0000,
+					"Norm. citations": 3.2982
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 47.0000,
+					"Norm. citations": 3.2982
+				}
+			},
+			{
+				"id": 6,
+				"label": "melody bowdon (2013)",
+				"description": "<table><tr><td>Authors:</td><td>melody bowdon</td></tr><tr><td>Title:</td><td>tweeting an ethos: emergency messaging, social media, and teaching technical communication</td></tr><tr><td>Source:</td><td>technical communication quarterly, 23(1), 35-54</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1080/10572252.2014.850853",
+				"x": -0.6336,
+				"y": -0.0123,
+				"cluster": 12,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Citations": 45.0000,
+					"Norm. citations": 1.8750
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 45.0000,
+					"Norm. citations": 1.8750
+				}
+			},
+			{
+				"id": 7,
+				"label": "kim a. johnston (2020)",
+				"description": "<table><tr><td>Authors:</td><td>kim a. johnston; maureen taylor; barbara ryan</td></tr><tr><td>Title:</td><td>emergency management communication: the paradox of the positive in public communication for preparedness</td></tr><tr><td>Source:</td><td>public relations review, 46(2), 101903-101903</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.pubrev.2020.101903",
+				"x": -0.5875,
+				"y": -0.0123,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 19.0000,
+					"Citations": 26.0000,
+					"Norm. citations": 5.2477
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 26.0000,
+					"Norm. citations": 5.2477
+				}
+			},
+			{
+				"id": 8,
+				"label": "judy edworthy (2015)",
+				"description": "<table><tr><td>Authors:</td><td>judy edworthy; elizabeth hellier; l. newbold; kirsteen titchener</td></tr><tr><td>Title:</td><td>passing crisis and emergency risk communications: the effects of communication channel, information type, and repetition</td></tr><tr><td>Source:</td><td>applied ergonomics/applied ergonomics, 48, 252-262</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.apergo.2014.12.009",
+				"x": -0.6215,
+				"y": -0.0222,
+				"cluster": 12,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 15.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 2.3158
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 2.3158
+				}
+			},
+			{
+				"id": 9,
+				"label": "matthew abunyewah (2018)",
+				"description": "<table><tr><td>Authors:</td><td>matthew abunyewah; thayaparan gajendran; kim maund</td></tr><tr><td>Title:</td><td>conceptual framework for motivating actions towards disaster preparedness through risk communication</td></tr><tr><td>Source:</td><td>procedia engineering, 212, 246-253</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.proeng.2018.01.032",
+				"x": -0.5970,
+				"y": -0.0278,
+				"cluster": 1,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 18.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 1.3043
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 1.3043
+				}
+			},
+			{
+				"id": 10,
+				"label": "kristin page hocevar (2023)",
+				"description": "<table><tr><td>Authors:</td><td>kristin page hocevar</td></tr><tr><td>Title:</td><td>who drives disaster communication? an analysis of twitter network structure and influence during a wildfire crisis</td></tr><tr><td>Source:</td><td>western journal of communication, 1-21</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1080/10570314.2023.2169052",
+				"x": -0.5532,
+				"y": 0.0021,
+				"cluster": 4,
+				"weights": {
+					"Links": 23.0000,
+					"Total link strength": 32.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 2.8108
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 2.8108
+				}
+			},
+			{
+				"id": 11,
+				"label": "maría josé canel (2010)",
+				"description": "<table><tr><td>Authors:</td><td>maría josé canel; karen sanders</td></tr><tr><td>Title:</td><td>crisis communication and terrorist attacks: framing a response to the 2004 madrid bombings and 2005 london bombings</td></tr><tr><td>Source:</td><td>[no source], 449-466</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1002/9781444314885.ch22",
+				"x": -0.6461,
+				"y": 0.0764,
+				"cluster": 8,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 10.0000,
+					"Citations": 34.0000,
+					"Norm. citations": 0.5528
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 34.0000,
+					"Norm. citations": 0.5528
+				}
+			},
+			{
+				"id": 12,
+				"label": "vasani yash kishorbhai (2017)",
+				"description": "<table><tr><td>Authors:</td><td>vasani yash kishorbhai; nagekar nainesh vasantbhai</td></tr><tr><td>Title:</td><td>aon: a survey on emergency communication systems during a catastrophic disaster</td></tr><tr><td>Source:</td><td>procedia computer science, 115, 838-845</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.procs.2017.09.166",
+				"x": 0.6341,
+				"y": 0.7508,
+				"cluster": 14,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 3.8462
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 3.8462
+				}
+			},
+			{
+				"id": 13,
+				"label": "nor emmy shuhada derani (2016)",
+				"description": "<table><tr><td>Authors:</td><td>nor emmy shuhada derani; prashalini naidu</td></tr><tr><td>Title:</td><td>the impact of utilizing social media as a communication platform during a crisis within the oil industry</td></tr><tr><td>Source:</td><td>procedia economics and finance, 35, 650-658</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/s2212-5671(16)00080-0",
+				"x": -0.6673,
+				"y": -0.0615,
+				"cluster": 9,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 10.0000,
+					"Citations": 23.0000,
+					"Norm. citations": 2.4353
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 23.0000,
+					"Norm. citations": 2.4353
+				}
+			},
+			{
+				"id": 14,
+				"label": "brooke fisher liu (2019)",
+				"description": "<table><tr><td>Authors:</td><td>brooke fisher liu; irina a. ileş; emina herovic</td></tr><tr><td>Title:</td><td>leadership under fire: how governments manage crisis communication</td></tr><tr><td>Source:</td><td>communication studies, 71(1), 128-147</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1080/10510974.2019.1683593",
+				"x": -0.5734,
+				"y": 0.0595,
+				"cluster": 11,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 49.0000,
+					"Citations": 22.0000,
+					"Norm. citations": 1.7500
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 22.0000,
+					"Norm. citations": 1.7500
+				}
+			},
+			{
+				"id": 15,
+				"label": "alessio malizia (2011)",
+				"description": "<table><tr><td>Authors:</td><td>alessio malizia; andrea bellucci; paloma dı́az; ignacio aedo; s. levialdi</td></tr><tr><td>Title:</td><td>estorys: a visual storyboard system supporting back-channel communication for emergencies</td></tr><tr><td>Source:</td><td>journal of visual languages and computing, 22(2), 150-169</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.jvlc.2010.12.003",
+				"x": -0.5931,
+				"y": -0.0597,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Citations": 22.0000,
+					"Norm. citations": 1.6923
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 22.0000,
+					"Norm. citations": 1.6923
+				}
+			},
+			{
+				"id": 16,
+				"label": "shari r. veil (2020)",
+				"description": "<table><tr><td>Authors:</td><td>shari r. veil; kathryn e. anthony; timothy l. sellnow; nicole staricek; laura e. young; pam cupp</td></tr><tr><td>Title:</td><td>revisiting the best practices in risk and crisis communication</td></tr><tr><td>Source:</td><td>[no source], 377-396</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1002/9781119399926.ch23",
+				"x": -0.6144,
+				"y": -0.0058,
+				"cluster": 5,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 42.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 2.8257
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 2.8257
+				}
+			},
+			{
+				"id": 17,
+				"label": "lan thị nguyễn (2023)",
+				"description": "<table><tr><td>Authors:</td><td>lan thị nguyễn; ann bostrom; daniel benjamin abramson; patricia moy</td></tr><tr><td>Title:</td><td>understanding the role of individual- and community-based resources in disaster preparedness</td></tr><tr><td>Source:</td><td>international journal of disaster risk reduction, 96, 103882-103882</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijdrr.2023.103882",
+				"x": -0.5807,
+				"y": -0.0491,
+				"cluster": 1,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 11.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 1.4054
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 1.4054
+				}
+			},
+			{
+				"id": 18,
+				"label": "xin ma (2014)",
+				"description": "<table><tr><td>Authors:</td><td>xin ma; justin yates</td></tr><tr><td>Title:</td><td>optimizing social media message dissemination problem for emergency communication</td></tr><tr><td>Source:</td><td>computers & industrial engineering, 78, 107-126</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.cie.2014.09.016",
+				"x": -0.6394,
+				"y": -0.0840,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 19.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 0.8296
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 0.8296
+				}
+			},
+			{
+				"id": 19,
+				"label": "john cox (2019)",
+				"description": "<table><tr><td>Authors:</td><td>john cox; rufino varea; glen finau; jope tarai; romitesh kant; jason titifanue; andreas neef</td></tr><tr><td>Title:</td><td>disaster preparedness and the abeyance of agency: christian responses to tropical cyclone winston in fiji</td></tr><tr><td>Source:</td><td>anthropological forum, 30(1-2), 125-140</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1080/00664677.2019.1647833",
+				"x": 0.9777,
+				"y": 0.2048,
+				"cluster": 19,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.0341
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.0341
+				}
+			},
+			{
+				"id": 20,
+				"label": "cristina ruiz-martín (2015)",
+				"description": "<table><tr><td>Authors:</td><td>cristina ruiz-martín; mario ramirez-ferrero; josé luis gonzalez-alvarez; adolfo lópez‐paredes</td></tr><tr><td>Title:</td><td>modeling of a nuclear emergency plan: communication management</td></tr><tr><td>Source:</td><td>human and ecological risk assessment, 21(5), 1152-1168</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1080/10807039.2014.955383",
+				"x": 0.4027,
+				"y": 0.5311,
+				"cluster": 20,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8421
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8421
+				}
+			},
+			{
+				"id": 21,
+				"label": "eddie lucero (2020)",
+				"description": "<table><tr><td>Authors:</td><td>eddie lucero; jessica trounstine; jennifer connolly; casey klofstad</td></tr><tr><td>Title:</td><td>a matter of life or death: how racial representation shapes compliance with city disaster preparedness orders</td></tr><tr><td>Source:</td><td>journal of urban affairs, 44(8), 1168-1185</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1080/07352166.2020.1785303",
+				"x": -0.6345,
+				"y": -0.1022,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 2.0183
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 2.0183
+				}
+			},
+			{
+				"id": 22,
+				"label": "bingjie liu-lastres (2022)",
+				"description": "<table><tr><td>Authors:</td><td>bingjie liu-lastres; yueying guo; hongbo liu</td></tr><tr><td>Title:</td><td>hotel crisis communication on social media: effects of message appeal</td></tr><tr><td>Source:</td><td>anatolia an international journal of tourism and hospitality/anatolia an international journal of tourism and hospitality research, 35(1), 56-66</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1080/13032917.2022.2119590",
+				"x": -0.7051,
+				"y": 0.0939,
+				"cluster": 13,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 3.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 5.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 5.0000
+				}
+			},
+			{
+				"id": 23,
+				"label": "kanittha rattanakanlaya (2018)",
+				"description": "<table><tr><td>Authors:</td><td>kanittha rattanakanlaya; achara sukonthasarn; suparat wangsrikhun; chawapornpan chanprasit</td></tr><tr><td>Title:</td><td>flood disaster preparedness experiences of hospital personnel in thailand: a qualitative study</td></tr><tr><td>Source:</td><td>australasian emergency care, 21(3), 87-92</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.auec.2018.07.002",
+				"x": -0.5603,
+				"y": 0.0255,
+				"cluster": 6,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.4348
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.4348
+				}
+			},
+			{
+				"id": 24,
+				"label": "takahiro konami (2021)",
+				"description": "<table><tr><td>Authors:</td><td>takahiro konami; hirohisa koga; akihiko kawatsura</td></tr><tr><td>Title:</td><td>role of pre-disaster discussions on preparedness on consensus-making of integrated flood management (ifm) after a flood disaster, based on a case in the abukuma river basin, fukushima, japan</td></tr><tr><td>Source:</td><td>international journal of disaster risk reduction, 53, 102012-102012</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.ijdrr.2020.102012",
+				"x": 0.7556,
+				"y": 0.4789,
+				"cluster": 21,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.6250
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.6250
+				}
+			},
+			{
+				"id": 25,
+				"label": "hwang sungwook (2009)",
+				"description": "<table><tr><td>Authors:</td><td>hwang sungwook; glen t. cameron</td></tr><tr><td>Title:</td><td>the estimation of a corporate crisis communication</td></tr><tr><td>Source:</td><td>public relations review, 35(2), 136-138</td></tr><tr><td>Year:</td><td>2009</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.pubrev.2009.01.005",
+				"x": -0.6440,
+				"y": 0.1106,
+				"cluster": 7,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.4400
+				},
+				"scores": {
+					"Pub. year": 2009.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.4400
+				}
+			},
+			{
+				"id": 26,
+				"label": "naimisha kolli (2013)",
+				"description": "<table><tr><td>Authors:</td><td>naimisha kolli; n. balakrishnan</td></tr><tr><td>Title:</td><td>analysis of e-mail communication using a social network framework for crisis detection in an organization</td></tr><tr><td>Source:</td><td>procedia: social & behavioral sciences, 100, 57-67</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.sbspro.2013.10.699",
+				"x": 0.6504,
+				"y": 0.3887,
+				"cluster": 22,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.3750
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.3750
+				}
+			},
+			{
+				"id": 27,
+				"label": "xin ma (2017)",
+				"description": "<table><tr><td>Authors:</td><td>xin ma; justin yates</td></tr><tr><td>Title:</td><td>multi-network multi-message social media message dissemination problem for emergency communication</td></tr><tr><td>Source:</td><td>computers & industrial engineering, 113, 256-268</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.cie.2017.09.018",
+				"x": -0.5894,
+				"y": -0.0690,
+				"cluster": 3,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 12.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.2308
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.2308
+				}
+			},
+			{
+				"id": 28,
+				"label": "cristina possas (2021)",
+				"description": "<table><tr><td>Authors:</td><td>cristina possas; ernesto t. a. marques; joão baptista risi; akira homma</td></tr><tr><td>Title:</td><td>covid-19 and future disease x in circular economy transition: redesigning pandemic preparedness to prevent a global disaster</td></tr><tr><td>Source:</td><td>circular economy and sustainability/circular economy and sustainability, 1(4), 1463-1478</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1007/s43615-021-00060-x",
+				"x": 0.2091,
+				"y": 0.7535,
+				"cluster": 23,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 1.3929
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 1.3929
+				}
+			},
+			{
+				"id": 29,
+				"label": "archana gopnarayan (2020)",
+				"description": "<table><tr><td>Authors:</td><td>archana gopnarayan; satish p. deshpande</td></tr><tr><td>Title:</td><td>tweets analysis for disaster management: preparedness, emergency response, impact, and recovery</td></tr><tr><td>Source:</td><td>lecture notes on data engineering and communications technologies, 760-764</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1007/978-3-030-38040-3_87",
+				"x": -0.2187,
+				"y": 0.8602,
+				"cluster": 24,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 1.2110
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 1.2110
+				}
+			},
+			{
+				"id": 30,
+				"label": "robert r. ulmer (2016)",
+				"description": "<table><tr><td>Authors:</td><td>robert r. ulmer; andrew s. pyle</td></tr><tr><td>Title:</td><td>international organizational crisis communication</td></tr><tr><td>Source:</td><td>[no source], 108-118</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1002/9781118516812.ch11",
+				"x": -0.6106,
+				"y": 0.0382,
+				"cluster": 8,
+				"weights": {
+					"Links": 26.0000,
+					"Total link strength": 51.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5294
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5294
+				}
+			},
+			{
+				"id": 31,
+				"label": "michelle maresh (2010)",
+				"description": "<table><tr><td>Authors:</td><td>michelle maresh; david e. williams</td></tr><tr><td>Title:</td><td>oil industry crisis communication</td></tr><tr><td>Source:</td><td>[no source], 285-300</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1002/9781444314885.ch13",
+				"x": -0.6366,
+				"y": 0.0760,
+				"cluster": 7,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 29.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.0976
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.0976
+				}
+			},
+			{
+				"id": 32,
+				"label": "chittayong surakitbanharn (2017)",
+				"description": "<table><tr><td>Authors:</td><td>chittayong surakitbanharn; david ebert</td></tr><tr><td>Title:</td><td>improving the communication of emergency and disaster information using visual analytics</td></tr><tr><td>Source:</td><td>advances in intelligent systems and computing, 143-152</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1007/978-3-319-60366-7_14",
+				"x": -0.5812,
+				"y": -0.0741,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.6154
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.6154
+				}
+			},
+			{
+				"id": 33,
+				"label": "jason rotoli (2021)",
+				"description": "<table><tr><td>Authors:</td><td>jason rotoli; sarah hancock; chanjun park; susan demers-mcletchie; tiffany panko; trevor halle; jennifer wills; julie scarpino; johannah merrill; jeremy t. cushman; courtney marie cora jones</td></tr><tr><td>Title:</td><td>emergency medical services communication barriers and the deaf american sign language user</td></tr><tr><td>Source:</td><td>prehospital emergency care, 26(3), 437-445</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1080/10903127.2021.1936314",
+				"x": 0.4221,
+				"y": -0.4553,
+				"cluster": 25,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.9286
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.9286
+				}
+			},
+			{
+				"id": 34,
+				"label": "anonymous (2022a)",
+				"description": "<table><tr><td>Title:</td><td>science communication in times of crisis</td></tr><tr><td>Source:</td><td>discourse approaches to politics, society and culture</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1075/dapsac.96",
+				"x": -0.5701,
+				"y": -0.8701,
+				"cluster": 26,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 2.0000
+				}
+			},
+			{
+				"id": 35,
+				"label": "elizabeth stokoe (2022)",
+				"description": "<table><tr><td>Authors:</td><td>elizabeth stokoe; rein ove sikveland; magnus hamann</td></tr><tr><td>Title:</td><td>preparing to talk: behind-the-scenes planning between negotiators for subsequent communication with persons in crisis</td></tr><tr><td>Source:</td><td>journal of pragmatics, 191, 113-127</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.pragma.2022.01.018",
+				"x": -0.2925,
+				"y": 0.9741,
+				"cluster": 27,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 2.0000
+				}
+			},
+			{
+				"id": 36,
+				"label": "shwetali jadhav (2022)",
+				"description": "<table><tr><td>Authors:</td><td>shwetali jadhav; sampada nemade; sneha thombre; ketaki despande; vishakha chivate</td></tr><tr><td>Title:</td><td>disaster preparedness using augmented reality/virtual reality</td></tr><tr><td>Source:</td><td>smart innovation, systems and technologies, 429-436</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1007/978-981-19-3575-6_43",
+				"x": 0.7527,
+				"y": -0.6614,
+				"cluster": 28,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 2.0000
+				}
+			},
+			{
+				"id": 37,
+				"label": "augustine pang (2016)",
+				"description": "<table><tr><td>Authors:</td><td>augustine pang</td></tr><tr><td>Title:</td><td>crisis communication research in singapore</td></tr><tr><td>Source:</td><td>[no source], 283-291</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1002/9781118516812.ch26",
+				"x": -0.6428,
+				"y": -0.0203,
+				"cluster": 5,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.2118
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.2118
+				}
+			},
+			{
+				"id": 38,
+				"label": "rongting niu (2023)",
+				"description": "<table><tr><td>Authors:</td><td>rongting niu; xin ma</td></tr><tr><td>Title:</td><td>warranted inferences of mediation and possibility of a threshold effect: verifying the mediating effects of anger in situational crisis communication theory</td></tr><tr><td>Source:</td><td>public relations review, 49(5), 102372-102372</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1016/j.pubrev.2023.102372",
+				"x": -0.6858,
+				"y": 0.0769,
+				"cluster": 13,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 35.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 39,
+				"label": "jeroen wolbers (2023)",
+				"description": "<table><tr><td>Authors:</td><td>jeroen wolbers; sanneke kuipers</td></tr><tr><td>Title:</td><td>a renewed awareness: reinvigorating preparedness research for crisis and disaster management</td></tr><tr><td>Source:</td><td>risk, hazards & crisis in public policy, 14(3), 184-187</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1002/rhc3.12277",
+				"x": -0.5903,
+				"y": -0.0553,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 40,
+				"label": "diah setyawati dewanti (2023)",
+				"description": "<table><tr><td>Authors:</td><td>diah setyawati dewanti; endah saptutyningsih; susilo nur aji cokro darsono; pazri nugraha</td></tr><tr><td>Title:</td><td>preparedness of disaster management of landslides in the livelihoods of kulon progo district</td></tr><tr><td>Source:</td><td>e3s web of conferences, 425, 05008-05008</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1051/e3sconf/202342505008",
+				"x": 0.2863,
+				"y": -0.4632,
+				"cluster": 29,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 41,
+				"label": "tamal mondal (2021)",
+				"description": "<table><tr><td>Authors:</td><td>tamal mondal; swaraj pramanik; prithviraj pramanik; kashi nath datta; partha sarathi paul; sujoy saha; s. nandi</td></tr><tr><td>Title:</td><td>emergency communication and use of ict in disaster management</td></tr><tr><td>Source:</td><td>disaster risk reduction, 161-197</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1007/978-981-16-0360-0_10",
+				"x": 0.6341,
+				"y": 0.7508,
+				"cluster": 14,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.4643
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.4643
+				}
+			},
+			{
+				"id": 42,
+				"label": "matthew w. seeger (2021)",
+				"description": "<table><tr><td>Authors:</td><td>matthew w. seeger; khairul islam; henry s. seeger</td></tr><tr><td>Title:</td><td>emergency preparedness, response, and strategic communication for natural disasters</td></tr><tr><td>Source:</td><td>[no source], 208-221</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1002/9781118857205.ch15",
+				"x": -0.6092,
+				"y": -0.0288,
+				"cluster": 2,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 33.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.4643
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.4643
+				}
+			},
+			{
+				"id": 43,
+				"label": "ganga s. dhanesh (2016)",
+				"description": "<table><tr><td>Authors:</td><td>ganga s. dhanesh; krishnamurthy sriramesh</td></tr><tr><td>Title:</td><td>risk and crisis communication research in india</td></tr><tr><td>Source:</td><td>[no source], 302-312</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1002/9781118516812.ch28",
+				"x": -0.6277,
+				"y": 0.0405,
+				"cluster": 15,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 14.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1059
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1059
+				}
+			},
+			{
+				"id": 44,
+				"label": "mandira singh shrestha (2022)",
+				"description": "<table><tr><td>Authors:</td><td>mandira singh shrestha; deo raj gurung; a. r. bajracharya; binod parajuli</td></tr><tr><td>Title:</td><td>landslide dam outburst in myagdi, nepal: early warning and preparedness key to minimizing disaster</td></tr><tr><td>Source:</td><td>disaster risk reduction, 65-81</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1007/978-981-16-7314-6_3",
+				"x": 0.3215,
+				"y": -0.9537,
+				"cluster": 30,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 45,
+				"label": "azlee johar (2017)",
+				"description": "<table><tr><td>Authors:</td><td>azlee johar; wan rozaini sheik osman; azizi ab aziz</td></tr><tr><td>Title:</td><td>amateur radio communication technology contingency communication in emergency situation</td></tr><tr><td>Source:</td><td>shs web of conferences, 33, 00023-00023</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1051/shsconf/20173300023",
+				"x": -0.6307,
+				"y": 0.0452,
+				"cluster": 15,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1538
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1538
+				}
+			},
+			{
+				"id": 46,
+				"label": "hongde wang (2012)",
+				"description": "<table><tr><td>Authors:</td><td>hongde wang; han deng</td></tr><tr><td>Title:</td><td>mine risk assessment based on location and monitoring emergency communication system</td></tr><tr><td>Source:</td><td>communications in computer and information science, 675-682</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1007/978-3-642-31965-5_79",
+				"x": -0.1218,
+				"y": -1.0116,
+				"cluster": 31,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 47,
+				"label": "arjen boin (2018)",
+				"description": "<table><tr><td>Authors:</td><td>arjen boin; sanneke kuipers; tim de jongh</td></tr><tr><td>Title:</td><td>a toxic cloud of smoke: communication and coordination in a transboundary crisis</td></tr><tr><td>Source:</td><td>new security challenges, 133-150</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1007/978-3-319-92303-1_7",
+				"x": -0.5552,
+				"y": 0.0879,
+				"cluster": 11,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 48,
+				"label": "anonymous (2018)",
+				"description": "<table><tr><td>Title:</td><td>disaster preparedness</td></tr><tr><td>Source:</td><td>[no source], 75-90</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1002/9781119549789.ch6",
+				"x": -0.2226,
+				"y": -0.8606,
+				"cluster": 32,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 49,
+				"label": "jaishri jethwaney (2020)",
+				"description": "<table><tr><td>Authors:</td><td>jaishri jethwaney</td></tr><tr><td>Title:</td><td>covid-19 disaster: interdependence of crisis communication and socio-economic resilience</td></tr><tr><td>Source:</td><td>disaster research and management series on the global south, 333-358</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1007/978-981-15-4324-1_20",
+				"x": -0.2917,
+				"y": -0.9750,
+				"cluster": 33,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 50,
+				"label": "diva syandriaji (2021)",
+				"description": "<table><tr><td>Authors:</td><td>diva syandriaji; junaidi junaidi</td></tr><tr><td>Title:</td><td>analysis of padang city community preparedness to face the earthquake and tsunami disaster</td></tr><tr><td>Source:</td><td>e3s web of conferences, 331, 04007-04007</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1051/e3sconf/202133104007",
+				"x": -0.3117,
+				"y": 0.8831,
+				"cluster": 34,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 51,
+				"label": "musen kingsley li (2023)",
+				"description": "<table><tr><td>Authors:</td><td>musen kingsley li; manmohan s. sodhi; christopher s. tang; jiayi joey yu</td></tr><tr><td>Title:</td><td>preparedness with a system integrating inventory, capacity, and capability for future pandemics and other disasters</td></tr><tr><td>Source:</td><td>production and operations management, 32(2), 564-583</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1111/poms.13887",
+				"x": 0.9972,
+				"y": 0.1179,
+				"cluster": 35,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 14.7568
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 14.7568
+				}
+			},
+			{
+				"id": 52,
+				"label": "naim kapucu (2008)",
+				"description": "<table><tr><td>Authors:</td><td>naim kapucu</td></tr><tr><td>Title:</td><td>culture of preparedness: household disaster preparedness</td></tr><tr><td>Source:</td><td>disaster prevention and management, 17(4), 526-535</td></tr><tr><td>Year:</td><td>2008</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1108/09653560810901773",
+				"x": -0.6147,
+				"y": -0.0957,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 2.0000,
+					"Citations": 141.0000,
+					"Norm. citations": 1.6207
+				},
+				"scores": {
+					"Pub. year": 2008.0000,
+					"Citations": 141.0000,
+					"Norm. citations": 1.6207
+				}
+			},
+			{
+				"id": 53,
+				"label": "qian hu (2014)",
+				"description": "<table><tr><td>Authors:</td><td>qian hu; naim kapucu</td></tr><tr><td>Title:</td><td>information communication technology utilization for effective emergency management networks</td></tr><tr><td>Source:</td><td>public management review, 18(3), 323-348</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1080/14719037.2014.969762",
+				"x": -0.6137,
+				"y": -0.0794,
+				"cluster": 3,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 23.0000,
+					"Citations": 89.0000,
+					"Norm. citations": 5.2741
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 89.0000,
+					"Norm. citations": 5.2741
+				}
+			},
+			{
+				"id": 54,
+				"label": "deepak g.c. (2019)",
+				"description": "<table><tr><td>Authors:</td><td>deepak g.c.; alexandros ladas; yusuf sambo; haris pervaiz; christos politis; muhammad ali imran</td></tr><tr><td>Title:</td><td>an overview of post-disaster emergency communication systems in the future networks</td></tr><tr><td>Source:</td><td>ieee wireless communications, 26(6), 132-139</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/mwc.2019.1800467",
+				"x": -0.4630,
+				"y": 0.9232,
+				"cluster": 36,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 63.0000,
+					"Norm. citations": 5.0114
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 63.0000,
+					"Norm. citations": 5.0114
+				}
+			},
+			{
+				"id": 55,
+				"label": "m. shah alam khan (2008)",
+				"description": "<table><tr><td>Authors:</td><td>m. shah alam khan</td></tr><tr><td>Title:</td><td>disaster preparedness for sustainable development in bangladesh</td></tr><tr><td>Source:</td><td>disaster prevention and management, 17(5), 662-671</td></tr><tr><td>Year:</td><td>2008</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1108/09653560810918667",
+				"x": 0.9978,
+				"y": 0.0291,
+				"cluster": 37,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 109.0000,
+					"Norm. citations": 1.2529
+				},
+				"scores": {
+					"Pub. year": 2008.0000,
+					"Citations": 109.0000,
+					"Norm. citations": 1.2529
+				}
+			},
+			{
+				"id": 56,
+				"label": "niels netten (2011)",
+				"description": "<table><tr><td>Authors:</td><td>niels netten; maarten van someren</td></tr><tr><td>Title:</td><td>improving communication in crisis management by evaluating the relevance of messages</td></tr><tr><td>Source:</td><td>journal of contingencies and crisis management, 19(2), 75-85</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1111/j.1468-5973.2011.00636.x",
+				"x": -0.5986,
+				"y": -0.0800,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 8.0000,
+					"Citations": 43.0000,
+					"Norm. citations": 3.3077
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 43.0000,
+					"Norm. citations": 3.3077
+				}
+			},
+			{
+				"id": 57,
+				"label": "jyh-shyan huang (2012)",
+				"description": "<table><tr><td>Authors:</td><td>jyh-shyan huang; yao‐nan lien</td></tr><tr><td>Title:</td><td>challenges of emergency communication network for disaster response</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/iccs.2012.6406204",
+				"x": 0.6341,
+				"y": 0.7509,
+				"cluster": 14,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Citations": 40.0000,
+					"Norm. citations": 2.8169
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 40.0000,
+					"Norm. citations": 2.8169
+				}
+			},
+			{
+				"id": 58,
+				"label": "e. del re (2013)",
+				"description": "<table><tr><td>Authors:</td><td>e. del re; sara jayousi; simone morosi; luca simone ronga; mauro de sanctis; ernestina cianca; marina ruggieri; emanuela falletti; antonio iera; giuseppe araniti; claudio sacchi</td></tr><tr><td>Title:</td><td>salice project: satellite-assisted localization and communication systems for emergency services</td></tr><tr><td>Source:</td><td>ieee aerospace and electronic systems magazine, 28(9), 4-15</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/maes.2013.6617094",
+				"x": -0.2153,
+				"y": -0.9932,
+				"cluster": 38,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 34.0000,
+					"Norm. citations": 1.4167
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 34.0000,
+					"Norm. citations": 1.4167
+				}
+			},
+			{
+				"id": 59,
+				"label": "terry flew (2019)",
+				"description": "<table><tr><td>Authors:</td><td>terry flew</td></tr><tr><td>Title:</td><td>digital communication, the crisis of trust, and the post-global</td></tr><tr><td>Source:</td><td>communication research and practice, 5(1), 4-22</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1080/22041451.2019.1561394",
+				"x": -0.5492,
+				"y": 0.0320,
+				"cluster": 6,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.9886
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.9886
+				}
+			},
+			{
+				"id": 60,
+				"label": "emiliano sisinni (2020)",
+				"description": "<table><tr><td>Authors:</td><td>emiliano sisinni; dhiego fernandes carvalho; paolo ferrari</td></tr><tr><td>Title:</td><td>emergency communication in iot scenarios by means of a transparent lorawan enhancement</td></tr><tr><td>Source:</td><td>ieee internet of things journal, 7(10), 10684-10694</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/jiot.2020.3011262",
+				"x": 0.3563,
+				"y": -0.6091,
+				"cluster": 39,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 4.8440
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 4.8440
+				}
+			},
+			{
+				"id": 61,
+				"label": "jiapei li (2021)",
+				"description": "<table><tr><td>Authors:</td><td>jiapei li; liming sun; xin feng; peiyi he; yue zhang</td></tr><tr><td>Title:</td><td>social media communication of the scientific and technological literature in emergency under covid-19</td></tr><tr><td>Source:</td><td>library hi tech, 39(3), 796-813</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1108/lht-10-2020-0268",
+				"x": -0.6454,
+				"y": -0.0517,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 3.9464
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 3.9464
+				}
+			},
+			{
+				"id": 62,
+				"label": "jesper falkheimer (2014)",
+				"description": "<table><tr><td>Authors:</td><td>jesper falkheimer</td></tr><tr><td>Title:</td><td>crisis communication and terrorism: the norway attacks on 22 july 2011</td></tr><tr><td>Source:</td><td>corporate communications, 19(1), 52-63</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1108/ccij-08-2012-0053",
+				"x": -0.6387,
+				"y": 0.0661,
+				"cluster": 8,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 13.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.4815
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.4815
+				}
+			},
+			{
+				"id": 63,
+				"label": "melvin greer (2012)",
+				"description": "<table><tr><td>Authors:</td><td>melvin greer; john w. ngo</td></tr><tr><td>Title:</td><td>personal emergency preparedness plan (pepp) facebook app: using cloud computing, mobile technology, and social networking services to decompress traditional channels of communication during emergencies and disasters</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/scc.2012.106",
+				"x": 0.3544,
+				"y": -0.8374,
+				"cluster": 40,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.4789
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.4789
+				}
+			},
+			{
+				"id": 64,
+				"label": "jonas andersson schwarz (2023)",
+				"description": "<table><tr><td>Authors:</td><td>jonas andersson schwarz; valentina kascel; muhammad azmat; sebastian kummer</td></tr><tr><td>Title:</td><td>collation of best practices for preparedness: lessons from disasters in pakistan and japan</td></tr><tr><td>Source:</td><td>journal of humanitarian logistics and supply chain management, 13(3), 311-330</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1108/jhlscm-07-2022-0086",
+				"x": -0.6150,
+				"y": 0.1182,
+				"cluster": 10,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 1.4054
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 1.4054
+				}
+			},
+			{
+				"id": 65,
+				"label": "thushari silva (2011)",
+				"description": "<table><tr><td>Authors:</td><td>thushari silva; vilas wuwongse; hitesh nidhi sharma</td></tr><tr><td>Title:</td><td>linked data in disaster mitigation and preparedness</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/incos.2011.113",
+				"x": 0.2330,
+				"y": -0.8767,
+				"cluster": 41,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.9231
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.9231
+				}
+			},
+			{
+				"id": 66,
+				"label": "mekonnen hailemariam zikargae (2022)",
+				"description": "<table><tr><td>Authors:</td><td>mekonnen hailemariam zikargae</td></tr><tr><td>Title:</td><td>risk communication, ethics and academic integrity in the process of minimizing the impacts of the covid-19 crisis in ethiopian higher education</td></tr><tr><td>Source:</td><td>cogent education, 9(1)</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1080/2331186x.2022.2062892",
+				"x": -0.6732,
+				"y": -0.0654,
+				"cluster": 9,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 5.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 5.0000
+				}
+			},
+			{
+				"id": 67,
+				"label": "eva‐karin olsson (2013)",
+				"description": "<table><tr><td>Authors:</td><td>eva‐karin olsson</td></tr><tr><td>Title:</td><td>public diplomacy as a crisis communication tool</td></tr><tr><td>Source:</td><td>journal of international communication, 19(2), 219-234</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1080/13216597.2013.838906",
+				"x": -0.6382,
+				"y": 0.0591,
+				"cluster": 8,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 19.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.4583
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.4583
+				}
+			},
+			{
+				"id": 68,
+				"label": "jian‐guo zhou (2020)",
+				"description": "<table><tr><td>Authors:</td><td>jian‐guo zhou; jingrun yang; lu lu</td></tr><tr><td>Title:</td><td>research on multi-uav networks in disaster emergency communication</td></tr><tr><td>Source:</td><td>iop conference series. materials science and engineering, 719(1), 012054-012054</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1088/1757-899x/719/1/012054",
+				"x": 0.1156,
+				"y": -0.6721,
+				"cluster": 42,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.6147
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.6147
+				}
+			},
+			{
+				"id": 69,
+				"label": "tan do‐duy (2015)",
+				"description": "<table><tr><td>Authors:</td><td>tan do‐duy; m. a. vázquez‐castro</td></tr><tr><td>Title:</td><td>efficient communication over cellular networks with network coding in emergency scenarios</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/ict-dm.2015.7402048",
+				"x": 0.1234,
+				"y": -0.7968,
+				"cluster": 43,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.5614
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.5614
+				}
+			},
+			{
+				"id": 70,
+				"label": "rodrigo soares (2023)",
+				"description": "<table><tr><td>Authors:</td><td>rodrigo soares; xianlin jin; patric r. spence; timothy l. sellnow</td></tr><tr><td>Title:</td><td>interacting arguments in crisis communication: the influence of message convergence on risk and crisis messages</td></tr><tr><td>Source:</td><td>journal of contingencies and crisis management, 31(3), 516-523</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1111/1468-5973.12456",
+				"x": -0.5677,
+				"y": 0.0087,
+				"cluster": 16,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 14.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.7027
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.7027
+				}
+			},
+			{
+				"id": 71,
+				"label": "alena kluknavská (2023)",
+				"description": "<table><tr><td>Authors:</td><td>alena kluknavská; martina novotná; olga eisele</td></tr><tr><td>Title:</td><td>fuming mad and jumping with joy: emotional responses to uncivil and post-truth communication by populist and non-populist politicians on facebook during the covid-19 crisis</td></tr><tr><td>Source:</td><td>mass communication & society, 1-25</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1080/15205436.2023.2252396",
+				"x": -0.5443,
+				"y": 0.0350,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.7027
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.7027
+				}
+			},
+			{
+				"id": 72,
+				"label": "hiraku okada (2012)",
+				"description": "<table><tr><td>Authors:</td><td>hiraku okada; hironori oka; kenji mase</td></tr><tr><td>Title:</td><td>network construction management for emergency communication system skymesh in large scale disaster</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/glocomw.2012.6477691",
+				"x": 0.2349,
+				"y": -0.9802,
+				"cluster": 44,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.5634
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.5634
+				}
+			},
+			{
+				"id": 73,
+				"label": "len o’kelly (2014)",
+				"description": "<table><tr><td>Authors:</td><td>len o’kelly</td></tr><tr><td>Title:</td><td>war of the worlds to social media: mediated communication in times of crisis</td></tr><tr><td>Source:</td><td>journal of radio & audio media, 21(2), 321-323</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1080/19376529.2014.950161",
+				"x": 0.8547,
+				"y": 0.5235,
+				"cluster": 45,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.4148
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.4148
+				}
+			},
+			{
+				"id": 74,
+				"label": "ong sing goh (2006)",
+				"description": "<table><tr><td>Authors:</td><td>ong sing goh; chun che fung; kok wai wong; arnold depickere</td></tr><tr><td>Title:</td><td>an embodied conversational agent for intelligent web interaction on pandemic crisis communication</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2006</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/wi-iatw.2006.37",
+				"x": 0.4219,
+				"y": 0.1085,
+				"cluster": 46,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Pub. year": 2006.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 75,
+				"label": "hanif fakhrurroja (2019)",
+				"description": "<table><tr><td>Authors:</td><td>hanif fakhrurroja; muhammad nashir atmaja; joe nathan c.g panjaitan; andry alamsyah; aris munandar</td></tr><tr><td>Title:</td><td>crisis communication on twitter: a social network analysis of christchurch terrorist attack in 2019</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/iciss48059.2019.8969839",
+				"x": -0.4097,
+				"y": -0.8807,
+				"cluster": 47,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4773
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4773
+				}
+			},
+			{
+				"id": 76,
+				"label": "setio galih marlyono (2018)",
+				"description": "<table><tr><td>Authors:</td><td>setio galih marlyono; n. c. nandi</td></tr><tr><td>Title:</td><td>the preparedness level of community in facing disaster in west java province</td></tr><tr><td>Source:</td><td>iop conference series. earth and environmental science, 145, 012103-012103</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1088/1755-1315/145/1/012103",
+				"x": 0.4070,
+				"y": -0.1730,
+				"cluster": 48,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.2609
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.2609
+				}
+			},
+			{
+				"id": 77,
+				"label": "steen steensen (2018)",
+				"description": "<table><tr><td>Authors:</td><td>steen steensen; elsebeth frey; harald hornmoen; rune ottosen; maria konow-lund</td></tr><tr><td>Title:</td><td>social media and situation awareness during terrorist attacks: recommendations for crisis communication</td></tr><tr><td>Source:</td><td>emerald publishing limited ebooks, 277-295</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1108/978-1-78756-269-120181017",
+				"x": 0.5336,
+				"y": 0.8494,
+				"cluster": 49,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.2609
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.2609
+				}
+			},
+			{
+				"id": 78,
+				"label": "raheleh b. dilmaghani (2007)",
+				"description": "<table><tr><td>Authors:</td><td>raheleh b. dilmaghani; ramesh r. rao</td></tr><tr><td>Title:</td><td>future wireless communication infrastructure with application to emergency scenarios</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2007</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/wowmom.2007.4351778",
+				"x": 0.8823,
+				"y": -0.1500,
+				"cluster": 50,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 79,
+				"label": "matthew h v byrne (2021)",
+				"description": "<table><tr><td>Authors:</td><td>matthew h v byrne; james ashcroft; laith alexander; jonathan wan; anna harvey</td></tr><tr><td>Title:</td><td>986 a systematic review of medical student willingness to volunteer and preparedness for pandemics and disasters</td></tr><tr><td>Source:</td><td>british journal of surgery, 108(supplement_2)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1093/bjs/znab134.185",
+				"x": 0.9919,
+				"y": -0.1391,
+				"cluster": 51,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.9286
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.9286
+				}
+			},
+			{
+				"id": 80,
+				"label": "martin macuha (2013)",
+				"description": "<table><tr><td>Authors:</td><td>martin macuha; darambazar amgalan; thomas derham</td></tr><tr><td>Title:</td><td>device-centric approach to improve resiliency of emergency communication</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/r10-htc.2013.6669028",
+				"x": 0.1009,
+				"y": -0.9196,
+				"cluster": 52,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.1250
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.1250
+				}
+			},
+			{
+				"id": 81,
+				"label": "esi e. thompson (2020)",
+				"description": "<table><tr><td>Authors:</td><td>esi e. thompson</td></tr><tr><td>Title:</td><td>risk communication in a double public health crisis: the case of ebola and cholera in ghana</td></tr><tr><td>Source:</td><td>journal of risk research, 23(7-8), 962-977</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1080/13669877.2020.1819386",
+				"x": -0.5644,
+				"y": 0.0140,
+				"cluster": 6,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 11.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.6055
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.6055
+				}
+			},
+			{
+				"id": 82,
+				"label": "noboru nakatani (2003)",
+				"description": "<table><tr><td>Authors:</td><td>noboru nakatani; s. yamasaki; katsuro takahashi; yasuto hijikata; shogo nishida</td></tr><tr><td>Title:</td><td>communication support system for emergency management</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2003</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/sice.2002.1196561",
+				"x": 0.8156,
+				"y": -0.5631,
+				"cluster": 17,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.6667
+				},
+				"scores": {
+					"Pub. year": 2003.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.6667
+				}
+			},
+			{
+				"id": 83,
+				"label": "dhara dewasurendra (2020)",
+				"description": "<table><tr><td>Authors:</td><td>dhara dewasurendra; abhishek kumar; isuru perera; dithali jayasena; samantha thelijjagoda</td></tr><tr><td>Title:</td><td>emergency communication application for speech and hearing-impaired citizens</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/fiti52050.2020.9424899",
+				"x": 0.5504,
+				"y": -0.8386,
+				"cluster": 53,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.4037
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.4037
+				}
+			},
+			{
+				"id": 84,
+				"label": "ahmad mahbub nur rahman (2023)",
+				"description": "<table><tr><td>Authors:</td><td>ahmad mahbub nur rahman; nurhadi nurhadi</td></tr><tr><td>Title:</td><td>analysis of dengkeng river flood disaster preparedness in cawas district</td></tr><tr><td>Source:</td><td>iop conference series. earth and environmental science, 1190(1), 012049-012049</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1088/1755-1315/1190/1/012049",
+				"x": 0.4844,
+				"y": 0.3929,
+				"cluster": 54,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 85,
+				"label": "maximiliano e. korstanje (2021)",
+				"description": "<table><tr><td>Authors:</td><td>maximiliano e. korstanje</td></tr><tr><td>Title:</td><td>tourism disaster preparedness post-covid-19 pandemic: the example of argentina</td></tr><tr><td>Source:</td><td>emerald publishing limited ebooks, 69-83</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1108/978-1-80071-511-020211005",
+				"x": 0.2162,
+				"y": 0.8844,
+				"cluster": 55,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.4643
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.4643
+				}
+			},
+			{
+				"id": 86,
+				"label": "hiroko oe (2021)",
+				"description": "<table><tr><td>Authors:</td><td>hiroko oe; yasuyuki yamaoka</td></tr><tr><td>Title:</td><td>a discussion of damage mitigation of natural disasters: how to increase citizens' preparedness</td></tr><tr><td>Source:</td><td>2021 third international sustainability and resilience conference: climate change</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/ieeeconf53624.2021.9668124",
+				"x": -0.5025,
+				"y": 0.1810,
+				"cluster": 11,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.4643
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.4643
+				}
+			},
+			{
+				"id": 87,
+				"label": "fatiya rosyida (2022)",
+				"description": "<table><tr><td>Authors:</td><td>fatiya rosyida; neni wahyuningtyas; ardyanto tanjung; abdul kodir</td></tr><tr><td>Title:</td><td>assessing and preparedness for earthquake disaster in salaf-khalaf islamic boarding school</td></tr><tr><td>Source:</td><td>iop conference series. earth and environmental science, 1041(1), 012033-012033</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1088/1755-1315/1041/1/012033",
+				"x": -0.5838,
+				"y": -0.0449,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 88,
+				"label": "zebulon c. wallace (2017)",
+				"description": "<table><tr><td>Authors:</td><td>zebulon c. wallace; arleen a. hill</td></tr><tr><td>Title:</td><td>forecaster and emergency manager perspectives on coordination and communication with the weather-warned public</td></tr><tr><td>Source:</td><td>papers in applied geography, 3(2), 157-170</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1080/23754931.2017.1299036",
+				"x": -0.5759,
+				"y": -0.0704,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1538
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1538
+				}
+			},
+			{
+				"id": 89,
+				"label": "emma s. spiro (2018)",
+				"description": "<table><tr><td>Authors:</td><td>emma s. spiro</td></tr><tr><td>Title:</td><td>online communication by emergency responders during crisis events</td></tr><tr><td>Source:</td><td>[no source], 149-173</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1093/oxfordhb/9780190460518.013.11",
+				"x": -0.1417,
+				"y": -0.9251,
+				"cluster": 56,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0435
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0435
+				}
+			},
+			{
+				"id": 90,
+				"label": "deedee m. bennett (2019)",
+				"description": "<table><tr><td>Authors:</td><td>deedee m. bennett</td></tr><tr><td>Title:</td><td>information and communication technology in crisis and disaster management</td></tr><tr><td>Source:</td><td>oxford research encyclopedia of politics</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1093/acrefore/9780190228637.013.1582",
+				"x": 0.6842,
+				"y": 0.5873,
+				"cluster": 57,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0795
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0795
+				}
+			},
+			{
+				"id": 91,
+				"label": "f a noor diyana (2020)",
+				"description": "<table><tr><td>Authors:</td><td>f a noor diyana; a. fakhru’l‐razi; m.s. aini; r. ahmad azan; r. w. mohd muhaimin</td></tr><tr><td>Title:</td><td>community preparedness to flood disaster in johor, malaysia</td></tr><tr><td>Source:</td><td>iop conference series. earth and environmental science, 479(1), 012015-012015</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1088/1755-1315/479/1/012015",
+				"x": -0.5703,
+				"y": -0.0137,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 16.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2018
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2018
+				}
+			},
+			{
+				"id": 92,
+				"label": "tibor farkas (2016)",
+				"description": "<table><tr><td>Authors:</td><td>tibor farkas</td></tr><tr><td>Title:</td><td>tasks of the hungarian defence forces in disaster and crisis situation: communication and information services and capabilities</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/ntsp.2016.7747779",
+				"x": 0.5111,
+				"y": -0.5910,
+				"cluster": 58,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 93,
+				"label": "felicia eng (2014)",
+				"description": "<table><tr><td>Authors:</td><td>felicia eng; heng gan; owen d. jones</td></tr><tr><td>Title:</td><td>the role of communication in emergency evacuations: an analysis of a ring network with a static disruption</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/itsc.2014.6957848",
+				"x": -0.6362,
+				"y": -0.0979,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 94,
+				"label": "foteini andriopoulou (2015)",
+				"description": "<table><tr><td>Authors:</td><td>foteini andriopoulou; ilias politis; asimakis lykourgiotis; tasos dagiuklas; dionisios n. serras; yacine rebahi</td></tr><tr><td>Title:</td><td>emynos: a next generation emergency communication platform for people with disabilities</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/skima.2015.7399986",
+				"x": -0.5816,
+				"y": -0.0760,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 95,
+				"label": "xin ma (2011)",
+				"description": "<table><tr><td>Authors:</td><td>xin ma; qin huang; yan kang</td></tr><tr><td>Title:</td><td>a new algorithm for stable communication in wireless emergency network</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/caman.2011.5778902",
+				"x": 0.7610,
+				"y": 0.1064,
+				"cluster": 59,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 96,
+				"label": "mega indah puspita sari (2022)",
+				"description": "<table><tr><td>Authors:</td><td>mega indah puspita sari; asri widowati; insih wilujeng; mohammad abdul khafid; novia amarta handayani; sabila yasaroh; h hestiana</td></tr><tr><td>Title:</td><td>analysis of preparedness in dealing with volcanic eruption disaster, study case: smpn 2 ngemplak sleman regency</td></tr><tr><td>Source:</td><td>iop conference series. earth and environmental science, 975(1), 012013-012013</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1088/1755-1315/975/1/012013",
+				"x": 0.8136,
+				"y": 0.3610,
+				"cluster": 60,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 97,
+				"label": "dmitrii p. gavra (2022)",
+				"description": "<table><tr><td>Authors:</td><td>dmitrii p. gavra; e. akimovich</td></tr><tr><td>Title:</td><td>crisis with undefined delayed damage: definition and communication strategy</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/comsds55328.2022.9769115",
+				"x": -0.5990,
+				"y": 0.0612,
+				"cluster": 10,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 98,
+				"label": "anonymous (2003)",
+				"description": "<table><tr><td>Title:</td><td>communicating in a crisis: risk communication guidelines for public officials</td></tr><tr><td>Source:</td><td>disaster prevention and management, 12(4)</td></tr><tr><td>Year:</td><td>2003</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1108/dpm.2003.07312dab.004",
+				"x": -0.1510,
+				"y": 0.9393,
+				"cluster": 61,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2003.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 99,
+				"label": "edward andres pramana (2021)",
+				"description": "<table><tr><td>Authors:</td><td>edward andres pramana; d. a. jagadhita; sherly saragih turnip</td></tr><tr><td>Title:</td><td>youth ambassadors for disaster preparedness: using psychological first aid in times of crisis</td></tr><tr><td>Source:</td><td>iop conference series. earth and environmental science, 673(1), 012053-012053</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1088/1755-1315/673/1/012053",
+				"x": 0.5483,
+				"y": -0.7266,
+				"cluster": 62,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 100,
+				"label": "zhenlong jiang (2021)",
+				"description": "<table><tr><td>Authors:</td><td>zhenlong jiang; ran ji; yudi chen; wenying ji</td></tr><tr><td>Title:</td><td>machine learning and simulation-based framework for disaster preparedness prediction</td></tr><tr><td>Source:</td><td>2021 winter simulation conference (wsc)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1109/wsc52266.2021.9715322",
+				"x": -0.5717,
+				"y": -0.0376,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 101,
+				"label": "cécile wendling (2013)",
+				"description": "<table><tr><td>Authors:</td><td>cécile wendling; jack radisch; stéphane jacobzone</td></tr><tr><td>Title:</td><td>the use of social media in risk and crisis communication</td></tr><tr><td>Source:</td><td>oecd working papers on public governance</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1787/5k3v01fskp9s-en",
+				"x": -0.6543,
+				"y": -0.0593,
+				"cluster": 9,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Citations": 66.0000,
+					"Norm. citations": 2.7500
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 66.0000,
+					"Norm. citations": 2.7500
+				}
+			},
+			{
+				"id": 102,
+				"label": "arif mohaimin sadri (2018)",
+				"description": "<table><tr><td>Authors:</td><td>arif mohaimin sadri; samiul hasan; satish v. ukkusuri; manuel cebrián</td></tr><tr><td>Title:</td><td>crisis communication patterns in social media during hurricane sandy</td></tr><tr><td>Source:</td><td>transportation research record, 2672(1), 125-137</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1177/0361198118773896",
+				"x": -0.6412,
+				"y": -0.0835,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 5.0000,
+					"Citations": 62.0000,
+					"Norm. citations": 2.6957
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 62.0000,
+					"Norm. citations": 2.6957
+				}
+			},
+			{
+				"id": 103,
+				"label": "chiara de amicis (2023)",
+				"description": "<table><tr><td>Authors:</td><td>chiara de amicis; sonia falconieri</td></tr><tr><td>Title:</td><td>managerial diversity and corporate communication in periods of crisis</td></tr><tr><td>Source:</td><td>review of corporate finance, 3(1–2), 213-244</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1561/114.00000040",
+				"x": 0.1485,
+				"y": -1.0012,
+				"cluster": 63,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 4.2162
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 4.2162
+				}
+			},
+			{
+				"id": 104,
+				"label": "mamata kumari akella (2009)",
+				"description": "<table><tr><td>Authors:</td><td>mamata kumari akella</td></tr><tr><td>Title:</td><td>first responders and crisis map symbols: clarifying communication</td></tr><tr><td>Source:</td><td>cartography and geographic information science, 36(1), 19-28</td></tr><tr><td>Year:</td><td>2009</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1559/152304009787340179",
+				"x": 0.8045,
+				"y": 0.5952,
+				"cluster": 64,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 39.0000,
+					"Norm. citations": 1.5600
+				},
+				"scores": {
+					"Pub. year": 2009.0000,
+					"Citations": 39.0000,
+					"Norm. citations": 1.5600
+				}
+			},
+			{
+				"id": 105,
+				"label": "rebecca coates nee (2015)",
+				"description": "<table><tr><td>Authors:</td><td>rebecca coates nee; judith fusco</td></tr><tr><td>Title:</td><td>tweets during crisis follow one-way communication</td></tr><tr><td>Source:</td><td>newspaper research journal, 36(2), 197-211</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1177/0739532915587295",
+				"x": -0.3746,
+				"y": -0.9565,
+				"cluster": 65,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.6316
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.6316
+				}
+			},
+			{
+				"id": 106,
+				"label": "itsuki nakabayashi (2008)",
+				"description": "<table><tr><td>Authors:</td><td>itsuki nakabayashi; shin aiba; taro ichiko</td></tr><tr><td>Title:</td><td>pre-disaster restoration measure of preparedness for post-disaster restoration in tokyo</td></tr><tr><td>Source:</td><td>journal of disaster research, 3(6), 407-421</td></tr><tr><td>Year:</td><td>2008</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.20965/jdr.2008.p0407",
+				"x": 0.9203,
+				"y": -0.3889,
+				"cluster": 66,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.1264
+				},
+				"scores": {
+					"Pub. year": 2008.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.1264
+				}
+			},
+			{
+				"id": 107,
+				"label": "rejina manandhar (2018)",
+				"description": "<table><tr><td>Authors:</td><td>rejina manandhar; laura k. siebeneck</td></tr><tr><td>Title:</td><td>return-entry risk communication challenges: experiences of local emergency management organizations following superstorm sandy</td></tr><tr><td>Source:</td><td>international journal of mass emergencies and disasters/international journal of mass emergencies & disasters, 36(2), 120-148</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1177/028072701803600203",
+				"x": -0.6156,
+				"y": -0.0686,
+				"cluster": 2,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 20.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.3913
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.3913
+				}
+			},
+			{
+				"id": 108,
+				"label": "masaki sato (2003)",
+				"description": "<table><tr><td>Authors:</td><td>masaki sato; huan-bang li; yoshiyuki fujino; hiromitsu wakana; amane miura; ozaki yutaka</td></tr><tr><td>Title:</td><td>helicopter-satellite communication system developed for transmission of disaster and emergency information</td></tr><tr><td>Source:</td><td>21st international communications satellite systems conference and exhibit</td></tr><tr><td>Year:</td><td>2003</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.2514/6.2003-2319",
+				"x": 0.9964,
+				"y": -0.0546,
+				"cluster": 67,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 2.3333
+				},
+				"scores": {
+					"Pub. year": 2003.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 2.3333
+				}
+			},
+			{
+				"id": 109,
+				"label": "zahaira fabiola gonzález romo (2020)",
+				"description": "<table><tr><td>Authors:</td><td>zahaira fabiola gonzález romo; sofia iriarte aguirre; irene garcía medina</td></tr><tr><td>Title:</td><td>pharmaceutical influencers on instagram and their communication during the covid-19 pandemic crisis</td></tr><tr><td>Source:</td><td>jcom, journal of science communication, 19(05), a04-a04</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.22323/2.19050204",
+				"x": -0.3139,
+				"y": -0.8836,
+				"cluster": 68,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.4128
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.4128
+				}
+			},
+			{
+				"id": 110,
+				"label": "liping lei (2022)",
+				"description": "<table><tr><td>Authors:</td><td>liping lei</td></tr><tr><td>Title:</td><td>emergency information communication structure by using multimodel fusion and artificial intelligence algorithm</td></tr><tr><td>Source:</td><td>computational intelligence and neuroscience, 2022, 1-10</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1155/2022/3029039",
+				"x": -0.6150,
+				"y": 0.1182,
+				"cluster": 10,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 3.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 3.0000
+				}
+			},
+			{
+				"id": 111,
+				"label": "dániel gergő pintér (2018)",
+				"description": "<table><tr><td>Authors:</td><td>dániel gergő pintér</td></tr><tr><td>Title:</td><td>media bias and the role of user generated contents in crisis management: a case-study about the communication of the hungarian police forces after 2016 budapest explosion</td></tr><tr><td>Source:</td><td>corvinus journal of sociology and social policy, 9(1), 101-125</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.14267/cjssp.2018.1.05",
+				"x": 0.6274,
+				"y": -0.7868,
+				"cluster": 69,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.2609
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.2609
+				}
+			},
+			{
+				"id": 112,
+				"label": "soilikki vettenranta (2015)",
+				"description": "<table><tr><td>Authors:</td><td>soilikki vettenranta</td></tr><tr><td>Title:</td><td>crisis communication and the norwegian authorities</td></tr><tr><td>Source:</td><td>nordicom review/nordicom review, 36(1), 51-64</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1515/nor-2015-0005",
+				"x": 0.1881,
+				"y": 0.6116,
+				"cluster": 70,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.3509
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.3509
+				}
+			},
+			{
+				"id": 113,
+				"label": "mark allman (2010)",
+				"description": "<table><tr><td>Authors:</td><td>mark allman</td></tr><tr><td>Title:</td><td>on building special-purpose social networks for emergency communication</td></tr><tr><td>Source:</td><td>computer communication review, 40(5), 27-34</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1145/1880153.1880158",
+				"x": 0.8939,
+				"y": 0.4474,
+				"cluster": 71,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.0650
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.0650
+				}
+			},
+			{
+				"id": 114,
+				"label": "diane nelson bryen (2010)",
+				"description": "<table><tr><td>Authors:</td><td>diane nelson bryen</td></tr><tr><td>Title:</td><td>communication in times of natural or man-made emergencies: the potential of speech-generating devices</td></tr><tr><td>Source:</td><td>international journal of emergency management, 7(1), 17-17</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1504/ijem.2010.032041",
+				"x": -0.2156,
+				"y": 0.9969,
+				"cluster": 72,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.0488
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.0488
+				}
+			},
+			{
+				"id": 115,
+				"label": "per örtenwall (2005)",
+				"description": "<table><tr><td>Authors:</td><td>per örtenwall</td></tr><tr><td>Title:</td><td>disaster preparedness in scandinavia</td></tr><tr><td>Source:</td><td>scandinavian journal of surgery, 94(4), 319-320</td></tr><tr><td>Year:</td><td>2005</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1177/145749690509400411",
+				"x": 0.0509,
+				"y": -1.0108,
+				"cluster": 73,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Pub. year": 2005.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 116,
+				"label": "shogo nishida (2004)",
+				"description": "<table><tr><td>Authors:</td><td>shogo nishida; takashi koiso; makoto nakatani</td></tr><tr><td>Title:</td><td>evaluation of organizational structure in emergency situations from the viewpoint of communication</td></tr><tr><td>Source:</td><td>international journal of human-computer interaction, 17(1), 25-42</td></tr><tr><td>Year:</td><td>2004</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1207/s15327590ijhc1701_3",
+				"x": 0.8156,
+				"y": -0.5631,
+				"cluster": 17,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.6000
+				},
+				"scores": {
+					"Pub. year": 2004.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.6000
+				}
+			},
+			{
+				"id": 117,
+				"label": "liang xiao (2012)",
+				"description": "<table><tr><td>Authors:</td><td>liang xiao</td></tr><tr><td>Title:</td><td>government crisis communication on the microblog</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1145/2463728.2463777",
+				"x": -0.6405,
+				"y": 0.0148,
+				"cluster": 12,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 41.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1408
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1408
+				}
+			},
+			{
+				"id": 118,
+				"label": "nurul qomariyah ahmad (2023)",
+				"description": "<table><tr><td>Authors:</td><td>nurul qomariyah ahmad; radin zaid radin umar; rasyimawati mat rashid</td></tr><tr><td>Title:</td><td>major hazard industries disaster preparedness: an empirical study of liquified petroleum gas storage facilities</td></tr><tr><td>Source:</td><td>international journal of critical infrastructures, 19(1), 1-1</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1504/ijcis.2023.10038939",
+				"x": 0.4082,
+				"y": -0.9228,
+				"cluster": 74,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 119,
+				"label": "saina sheini mehrab zadeh (2023)",
+				"description": "<table><tr><td>Authors:</td><td>saina sheini mehrab zadeh</td></tr><tr><td>Title:</td><td>disaster resilience through the lens of administrative and social media data: preparedness, response, and recovery</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.17760/d20467301",
+				"x": 0.1377,
+				"y": 0.9927,
+				"cluster": 75,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 120,
+				"label": "fundi wandisunga kayamba-phiri (2023)",
+				"description": "<table><tr><td>Authors:</td><td>fundi wandisunga kayamba-phiri; burnnet khulumbo; maziko nkhulembe</td></tr><tr><td>Title:</td><td>from response to preparedness: enhancing community-led disaster risk management in malawi</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.2499/p15738coll2.136823",
+				"x": 0.5594,
+				"y": -0.0291,
+				"cluster": 76,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 121,
+				"label": "emily lalonde (2023)",
+				"description": "<table><tr><td>Authors:</td><td>emily lalonde; brent mcknight; françois robinne</td></tr><tr><td>Title:</td><td>does wildfire exposure influence corporate disaster preparedness? a study of natural resources extraction firms in canada</td></tr><tr><td>Source:</td><td>organization & environment, 36(4), 590-620</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1177/10860266231201993",
+				"x": -0.5851,
+				"y": -0.0406,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 122,
+				"label": "faith hatani (2019)",
+				"description": "<table><tr><td>Authors:</td><td>faith hatani</td></tr><tr><td>Title:</td><td>when an issue becomes a crisis: an investigation of pre-crisis communication through annual reports</td></tr><tr><td>Source:</td><td>international journal of management practice, 12(3), 283-283</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1504/ijmp.2019.100403",
+				"x": 0.8956,
+				"y": 0.1062,
+				"cluster": 77,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1591
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1591
+				}
+			},
+			{
+				"id": 123,
+				"label": "seung-ji baek (2016)",
+				"description": "<table><tr><td>Authors:</td><td>seung-ji baek</td></tr><tr><td>Title:</td><td>crisis communication in major disaster using natural language processing</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.14989/doctor.k19694",
+				"x": 0.2603,
+				"y": -0.7278,
+				"cluster": 78,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1059
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1059
+				}
+			},
+			{
+				"id": 124,
+				"label": "b. sserwadda (2011)",
+				"description": "<table><tr><td>Authors:</td><td>b. sserwadda</td></tr><tr><td>Title:</td><td>disaster preparedness under the decentralization system of governance in uganda</td></tr><tr><td>Source:</td><td>wit transactions on the built environment</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.2495/dman110071",
+				"x": 0.4152,
+				"y": -0.0327,
+				"cluster": 79,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0769
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0769
+				}
+			},
+			{
+				"id": 125,
+				"label": "luke tredinnick (2020)",
+				"description": "<table><tr><td>Authors:</td><td>luke tredinnick; claire laybats</td></tr><tr><td>Title:</td><td>clear communication in times of crisis</td></tr><tr><td>Source:</td><td>business information review, 37(3), 94-96</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1177/0266382120953766",
+				"x": 0.8795,
+				"y": -0.0232,
+				"cluster": 80,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2018
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2018
+				}
+			},
+			{
+				"id": 126,
+				"label": "milan stute (2020)",
+				"description": "<table><tr><td>Authors:</td><td>milan stute; florian kohnhäuser; lars baumgärtner; lars almon; matthias hollick; stefan katzenbeisser; bernd freisleben</td></tr><tr><td>Title:</td><td>rescue: a resilient and secure device-to-device communication framework for emergencies</td></tr><tr><td>Source:</td><td>[no source], 1-1</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.26083/tuprints-00017838",
+				"x": 0.9292,
+				"y": 0.3686,
+				"cluster": 81,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2018
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2018
+				}
+			},
+			{
+				"id": 127,
+				"label": "wei cui (2020)",
+				"description": "<table><tr><td>Authors:</td><td>wei cui</td></tr><tr><td>Title:</td><td>crisis communication in china: strategies taken by the chinese government and online public opinion</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.25392/leicester.data.13322744.v1",
+				"x": 0.3555,
+				"y": -0.3165,
+				"cluster": 82,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2018
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2018
+				}
+			},
+			{
+				"id": 128,
+				"label": "sandra đukić (2021)",
+				"description": "<table><tr><td>Authors:</td><td>sandra đukić; nataša novaković; snežana živković</td></tr><tr><td>Title:</td><td>the importance of communication in an emergency</td></tr><tr><td>Source:</td><td>facta universitatis. series: working and living environmental protection/facta universitatis. series: working and living environmental       protection, 061-061</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.22190/fuwlep2101061d",
+				"x": -0.5135,
+				"y": 0.8843,
+				"cluster": 83,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2321
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2321
+				}
+			},
+			{
+				"id": 129,
+				"label": "sophie-bo heinkel (2021)",
+				"description": "<table><tr><td>Authors:</td><td>sophie-bo heinkel; benni thiebes; zin mar than; toe aung; tin tin kyi; win lei mar; saw sandar oo; christian miller; marlene willkomm; win maung; zin nwe myint; khin soe; regine spohner; frauke kraas</td></tr><tr><td>Title:</td><td>disaster preparedness and resilience at household level in yangon, myanmar</td></tr><tr><td>Source:</td><td>research square (research square)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.21203/rs.3.rs-538663/v1",
+				"x": 0.3854,
+				"y": 0.9272,
+				"cluster": 84,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2321
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2321
+				}
+			},
+			{
+				"id": 130,
+				"label": "nasaai masngut (2021)",
+				"description": "<table><tr><td>Authors:</td><td>nasaai masngut; emma mohamad</td></tr><tr><td>Title:</td><td>association between public opinion and malaysian government communication strategies about the covid-19 crisis: content analysis of image repair strategies in social media (preprint)</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.2196/preprints.28074",
+				"x": -0.5701,
+				"y": 0.8702,
+				"cluster": 85,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2321
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2321
+				}
+			},
+			{
+				"id": 131,
+				"label": "donna d. djordjevich (2004)",
+				"description": "<table><tr><td>Authors:</td><td>donna d. djordjevich; p. k. barr; jason darrel arnold; michael m. johnson; j. timothy; marilyn f. hawley; midge l. davis; aliseya wright; michael l. bernard; w. bradford wilcox; ricky tam; heidi r. ammerlahn</td></tr><tr><td>Title:</td><td>understanding communication in counterterrorism crisis management.</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2004</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.2172/920127",
+				"x": 0.5036,
+				"y": -0.2992,
+				"cluster": 86,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4000
+				},
+				"scores": {
+					"Pub. year": 2004.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4000
+				}
+			},
+			{
+				"id": 132,
+				"label": "tuong-minh ly-le (2014)",
+				"description": "<table><tr><td>Authors:</td><td>tuong-minh ly-le</td></tr><tr><td>Title:</td><td>social media in crisis communication</td></tr><tr><td>Source:</td><td>social science research network</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.2139/ssrn.2640993",
+				"x": -0.5769,
+				"y": 0.0406,
+				"cluster": 6,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 15.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 133,
+				"label": "mohammad yari naserieh (2014)",
+				"description": "<table><tr><td>Authors:</td><td>mohammad yari naserieh; hamid mahmoodi; seyed abotalb mosavi; majid ivar</td></tr><tr><td>Title:</td><td>examination of the relationship between organizational communication sand crisis management in governmental organizations</td></tr><tr><td>Source:</td><td>lecture notes on information theory, 2(1), 110-116</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.12720/lnit.2.1.110-116",
+				"x": 0.6009,
+				"y": 0.1128,
+				"cluster": 87,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 134,
+				"label": "anonymous (2014)",
+				"description": "<table><tr><td>Title:</td><td>emergency communication</td></tr><tr><td>Source:</td><td>the world bank ebooks, 133-141</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1596/978-1-4648-0153-2_ch15",
+				"x": 0.5747,
+				"y": 0.5250,
+				"cluster": 88,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 135,
+				"label": "anonymous (2010b)",
+				"description": "<table><tr><td>Title:</td><td>disaster preparedness among community-based organizations in the city and county of san francisco</td></tr><tr><td>Source:</td><td>crc press ebooks, 3-39</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.1201/b10269-3",
+				"x": 0.6915,
+				"y": -0.7260,
+				"cluster": 89,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 136,
+				"label": "manishankar s (2022)",
+				"description": "<table><tr><td>Authors:</td><td>manishankar s</td></tr><tr><td>Title:</td><td>secure iot based emergency communication system</td></tr><tr><td>Source:</td><td>international journal for research in applied science and engineering technology, 10(6), 3044-3048</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.22214/ijraset.2022.44560",
+				"x": 0.6929,
+				"y": -0.5056,
+				"cluster": 90,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 137,
+				"label": "lizabeth a. barclay (2022)",
+				"description": "<table><tr><td>Authors:</td><td>lizabeth a. barclay; jennifer cordon thor</td></tr><tr><td>Title:</td><td>an examination of organizational crisis communication strategy</td></tr><tr><td>Source:</td><td>journal of behavioral and applied management, 22(1)</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.21818/001c.37165",
+				"x": 0.7468,
+				"y": -0.1855,
+				"cluster": 91,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 138,
+				"label": "shaopeng che (2022)",
+				"description": "<table><tr><td>Authors:</td><td>shaopeng che; dongyan nan; yuanhang zhou; shunan zhang; jang hyun kim</td></tr><tr><td>Title:</td><td>a retrospective review of the development and application of crisis and emergency risk communication (cerc) in social media (preprint)</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.2196/preprints.41362",
+				"x": -0.5463,
+				"y": -0.0450,
+				"cluster": 4,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 7.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 139,
+				"label": "surbariyanti surbariyanti (2019)",
+				"description": "<table><tr><td>Authors:</td><td>surbariyanti surbariyanti; agussabti agussabti; imran imran</td></tr><tr><td>Title:</td><td>relationship between the level of anxiety with preparedness of staff of the social service of the province of aceh in the disaster</td></tr><tr><td>Source:</td><td>international journal of multicultural and multireligious understanding, 6(2), 619-619</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.18415/ijmmu.v6i2.724",
+				"x": 0.7519,
+				"y": 0.6661,
+				"cluster": 92,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 140,
+				"label": "reinny patrisina (2019)",
+				"description": "<table><tr><td>Authors:</td><td>reinny patrisina; nikorn sirivongpaisal; sakesun suthummanon</td></tr><tr><td>Title:</td><td>designing a relief distribution network under uncertain situation: preparedness in responding to disaster</td></tr><tr><td>Source:</td><td>[no source], 9(5), 1577-1583</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.18517/ijaseit.9.3.4655",
+				"x": -0.6418,
+				"y": -0.1080,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 141,
+				"label": "naomi ndubueze (2020)",
+				"description": "<table><tr><td>Authors:</td><td>naomi ndubueze; oladokun omojola; darlynton yartey; amodu lanre; omolayo joy</td></tr><tr><td>Title:</td><td>professional perspectives on the use of a crisis communication plan</td></tr><tr><td>Source:</td><td>international journal of humanities & social studies, 8(4)</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.24940/theijhss/2020/v8/i4/hs2004-035",
+				"x": -0.3750,
+				"y": 0.9562,
+				"cluster": 93,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 142,
+				"label": "takayuki hayashi (2020)",
+				"description": "<table><tr><td>Authors:</td><td>takayuki hayashi</td></tr><tr><td>Title:</td><td>application of deaggregation of spatial probabilistic seismic hazard for disaster preparedness</td></tr><tr><td>Source:</td><td>international journal of geomate, 18(65)</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.21660/2020.65.5519",
+				"x": 0.6820,
+				"y": -0.3245,
+				"cluster": 94,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 143,
+				"label": "james morrison (2020)",
+				"description": "<table><tr><td>Authors:</td><td>james morrison</td></tr><tr><td>Title:</td><td>natural disaster preparedness planning: synchronizing artificial intelligence with a new set of leadership skills for generating an inclusive strategy in a remote workplace</td></tr><tr><td>Source:</td><td>international business & economics studies, 3(1), p13-p13</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.22158/ibes.v3n1p13",
+				"x": 0.2120,
+				"y": -0.5827,
+				"cluster": 95,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 144,
+				"label": "rahsidi sabri muda (2021)",
+				"description": "<table><tr><td>Authors:</td><td>rahsidi sabri muda; mohd. ramzi mohd. hussain; zawati tukiman; fatin shahira abdullah</td></tr><tr><td>Title:</td><td>community preparedness towards dam disaster: disaster risk reduction (drr) program in cameron highlands</td></tr><tr><td>Source:</td><td>international journal of environmental sciences and development/international journal of environmental science and development, 12(9), 267-273</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.18178/ijesd.2021.12.9.1350",
+				"x": 0.0944,
+				"y": 0.8686,
+				"cluster": 96,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 145,
+				"label": "david robie (2021)",
+				"description": "<table><tr><td>Authors:</td><td>david robie</td></tr><tr><td>Title:</td><td>crisis communication and covid-19: covering two pacific tragedies with storytelling</td></tr><tr><td>Source:</td><td>pacific journalism review, 27(1and2), 11-21</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.24135/pjr.v27i1and2.1203",
+				"x": 0.2216,
+				"y": 0.9860,
+				"cluster": 97,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 146,
+				"label": "kurnia dwi anggraini (2021)",
+				"description": "<table><tr><td>Authors:</td><td>kurnia dwi anggraini; isna fitria agustina</td></tr><tr><td>Title:</td><td>the role of village governments in reducing the risk of flood disaster through disaster preparedness villages</td></tr><tr><td>Source:</td><td>indonesian journal of cultural and community development, 9</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.21070/ijccd2021750",
+				"x": -0.0210,
+				"y": 0.9085,
+				"cluster": 98,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 147,
+				"label": "eliška polcarová (2021)",
+				"description": "<table><tr><td>Authors:</td><td>eliška polcarová; marek smetana</td></tr><tr><td>Title:</td><td>community education as a tool for building its resilience in disaster preparedness</td></tr><tr><td>Source:</td><td>iceri proceedings</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.21125/iceri.2021.0586",
+				"x": 0.6454,
+				"y": -0.6279,
+				"cluster": 99,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 148,
+				"label": "fatmah fatmah (2021)",
+				"description": "<table><tr><td>Authors:</td><td>fatmah fatmah</td></tr><tr><td>Title:</td><td>effect of disaster preparedness training on knowledge regarding flood and landslides disaster management among family with elderly</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.26226/morressier.61a82ed54a84e7b4701d8bc3",
+				"x": 0.5771,
+				"y": -0.4432,
+				"cluster": 100,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 149,
+				"label": "larissa s. drescher (2021)",
+				"description": "<table><tr><td>Authors:</td><td>larissa s. drescher; jutta roosen; katja aue; kerstin dressel; wiebke schär; anne götz</td></tr><tr><td>Title:</td><td>the spread of covid-19 crisis communication by german public authorities and experts on twitter: quantitative content analysis (preprint)</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.2196/preprints.31834",
+				"x": -0.5353,
+				"y": -0.0340,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 150,
+				"label": "vladica cvetković (2021)",
+				"description": "<table><tr><td>Authors:</td><td>vladica cvetković; kamenka živčić marković</td></tr><tr><td>Title:</td><td>examining the impact of demographic and socioeconomic factors on the level of employee preparedness for a disaster caused by fires: a case study of electrical power distribution in serbia</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.20544/icp.2.5.21.p09",
+				"x": 0.8862,
+				"y": -0.4679,
+				"cluster": 101,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 151,
+				"label": "galateia terti (2019)",
+				"description": "<table><tr><td>Authors:</td><td>galateia terti; isabelle ruin; milan kalaš; ilona láng; arnau cangròs i alonso; tommaso sabbatini; valerio lorini</td></tr><tr><td>Title:</td><td>anycare: a role-playing game to investigate crisis decision-making and communication challenges in weather-related hazards</td></tr><tr><td>Source:</td><td>natural hazards and earth system sciences, 19(3), 507-533</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.5194/nhess-19-507-2019",
+				"x": -0.5032,
+				"y": 0.1797,
+				"cluster": 11,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.9886
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.9886
+				}
+			},
+			{
+				"id": 152,
+				"label": "asta valackienė (2010)",
+				"description": "<table><tr><td>Authors:</td><td>asta valackienė</td></tr><tr><td>Title:</td><td>efficient corporate communication: decisions in crisis management</td></tr><tr><td>Source:</td><td>[no source], 66(1)</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.5755/j01.ee.66.1.11657",
+				"x": -0.6466,
+				"y": 0.1113,
+				"cluster": 7,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 0.3415
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 0.3415
+				}
+			},
+			{
+				"id": 153,
+				"label": "kenneth a. lachlan (2019)",
+				"description": "<table><tr><td>Authors:</td><td>kenneth a. lachlan; zhan xu; emily hutter; rainear adam; patric r. spence</td></tr><tr><td>Title:</td><td>a little goes a long way: serial transmission of twitter content associated with hurricane irma and implications for crisis communication</td></tr><tr><td>Source:</td><td>journal of strategic innovation and sustainability, 14(1)</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.33423/jsis.v14i1.984",
+				"x": 0.4603,
+				"y": 0.8902,
+				"cluster": 102,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 1.1136
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 1.1136
+				}
+			},
+			{
+				"id": 154,
+				"label": "susan atkinson (2021)",
+				"description": "<table><tr><td>Authors:</td><td>susan atkinson; christopher kim; jee young lee</td></tr><tr><td>Title:</td><td>facebook as an official communication channel in a crisis</td></tr><tr><td>Source:</td><td>australian journal of emergency management, 10.47389/36(no 1), 92-98</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.47389/36.1.92",
+				"x": -0.5319,
+				"y": -0.0253,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 2.0893
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 2.0893
+				}
+			},
+			{
+				"id": 155,
+				"label": "jiling cao (2022)",
+				"description": "<table><tr><td>Authors:</td><td>jiling cao; xuanhua xu; yudi chen; wenying ji</td></tr><tr><td>Title:</td><td>communication barrier-incorporated network modeling for interorganizational opinion formation in emergency events</td></tr><tr><td>Source:</td><td>journal of intelligent & fuzzy systems, 43(3), 3709-3726</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.3233/jifs-212102",
+				"x": 0.9729,
+				"y": -0.2251,
+				"cluster": 103,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 2.0000
+				}
+			},
+			{
+				"id": 156,
+				"label": "eris oktani maya sintha (2020)",
+				"description": "<table><tr><td>Authors:</td><td>eris oktani maya sintha; budi suryadi; muhammad riduansyah syafari</td></tr><tr><td>Title:</td><td>performance assessment of local government organizations on flood disaster prevention and preparedness in gunung mas regency</td></tr><tr><td>Source:</td><td>scholars international journal of law, crime and justice, 3(12), 458-462</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.36348/sijlcj.2020.v03i12.006",
+				"x": -0.1064,
+				"y": -0.8148,
+				"cluster": 104,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.6055
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.6055
+				}
+			},
+			{
+				"id": 157,
+				"label": "selina e. m. kerr (2019)",
+				"description": "<table><tr><td>Authors:</td><td>selina e. m. kerr</td></tr><tr><td>Title:</td><td>emergency management and communication improvements</td></tr><tr><td>Source:</td><td>advances in early childhood and k-12 education, 474-493</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.4018/978-1-5225-6246-7.ch024",
+				"x": -0.6146,
+				"y": 0.0965,
+				"cluster": 10,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 15.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1591
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1591
+				}
+			},
+			{
+				"id": 158,
+				"label": "nur asiah (2023)",
+				"description": "<table><tr><td>Authors:</td><td>nur asiah; dewi kurniawati; sakhyan asmara</td></tr><tr><td>Title:</td><td>crisis communication management of the ministry of religion of serdang bedagai regency in handling the cancellation policy for prospective indonesian hajj pilgrims during the covid-19 pandemic in serdang bedagai regency</td></tr><tr><td>Source:</td><td>international journal of research and review, 10(2), 367-372</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.52403/ijrr.20230246",
+				"x": -0.0349,
+				"y": -1.0087,
+				"cluster": 105,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 159,
+				"label": "deanna d. sellnow (2023)",
+				"description": "<table><tr><td>Authors:</td><td>deanna d. sellnow; timothy l. sellnow</td></tr><tr><td>Title:</td><td>the idea model: a best practice for data-driven strategic risk and crisis communication</td></tr><tr><td>Source:</td><td>open access government, 38(1), 20-21</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.56367/oag-038-10755",
+				"x": 0.0024,
+				"y": -0.7615,
+				"cluster": 106,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 160,
+				"label": "richard gordon mayopu (2023)",
+				"description": "<table><tr><td>Authors:</td><td>richard gordon mayopu; long‐sheng chen; venkateswarlu nalluri</td></tr><tr><td>Title:</td><td>classification crisis communication: semiotic approach with latent semantic analysis</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.3390/engproc2023038009",
+				"x": -0.7059,
+				"y": 0.0929,
+				"cluster": 13,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 161,
+				"label": "abigail renee riggs (2023)",
+				"description": "<table><tr><td>Authors:</td><td>abigail renee riggs</td></tr><tr><td>Title:</td><td>mitigation and preparedness in disaster communication: examining the need for closing the loop in the discourse of renewal theory</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.33915/etd.12157",
+				"x": 0.5879,
+				"y": -0.1750,
+				"cluster": 107,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 162,
+				"label": "jamilah jamal (2023)",
+				"description": "<table><tr><td>Authors:</td><td>jamilah jamal; norhafezah yusof; suhaini muda</td></tr><tr><td>Title:</td><td>public trust toward government online crisis communication: a malaysian youth perspective</td></tr><tr><td>Source:</td><td>advances in social science, education and humanities research/advances in social science, education and humanities research, 403-415</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.2991/978-2-38476-098-5_35",
+				"x": -0.5620,
+				"y": 0.0109,
+				"cluster": 16,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 163,
+				"label": "agus mulyana (2023)",
+				"description": "<table><tr><td>Authors:</td><td>agus mulyana; kusuma kusuma; ernalem bangun; pujo widodo; wilopo wilopo</td></tr><tr><td>Title:</td><td>increasing children's preparedness, especially street children by children's friends in dealing with the covid-19 pandemic disaster through educative learning and healing</td></tr><tr><td>Source:</td><td>international journal of humanities education and social sciences, 3(1)</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.55227/ijhess.v3i1.508",
+				"x": -0.1093,
+				"y": 1.0124,
+				"cluster": 108,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 164,
+				"label": "yantsislav yanakiev (2023)",
+				"description": "<table><tr><td>Authors:</td><td>yantsislav yanakiev; sergio lópez bernal; anna isabel sivila castellana</td></tr><tr><td>Title:</td><td>d6.6 harmonisation opportunities on the preparedness and cross-sectorial collaboration for first aid response to multi-casualty disasters m18</td></tr><tr><td>Source:</td><td>zenodo (cern european organization for nuclear research)</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.5281/zenodo.8321933",
+				"x": -0.5135,
+				"y": -0.8840,
+				"cluster": 109,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 165,
+				"label": "asli cazorla milla (2023)",
+				"description": "<table><tr><td>Authors:</td><td>asli cazorla milla; monica machado; leonardo josé mataruna-dos-santos</td></tr><tr><td>Title:</td><td>digital communication in sport sector: a brief analysis of the pandemic crisis period</td></tr><tr><td>Source:</td><td>international journal of business and management, 18(5), 177-177</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.5539/ijbm.v18n5p177",
+				"x": 0.3067,
+				"y": 0.9563,
+				"cluster": 110,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 166,
+				"label": "ljubica milanović glavan (2023)",
+				"description": "<table><tr><td>Authors:</td><td>ljubica milanović glavan</td></tr><tr><td>Title:</td><td>communication during crisis using social media networks in oil companies in croatia: an empirical research</td></tr><tr><td>Source:</td><td>communications of international proceedings</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.5171/2023.4116423",
+				"x": 0.7306,
+				"y": -0.0389,
+				"cluster": 111,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 167,
+				"label": "reimund homann (2023)",
+				"description": "<table><tr><td>Authors:</td><td>reimund homann; jörg forthmann; l.j.m. esser</td></tr><tr><td>Title:</td><td>crisis detection in the age of digital communication: the power of social listening as a method to identify corporate events in time series data</td></tr><tr><td>Source:</td><td>international journal of crisis communication, 19-26</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.31907/2617-121x.2022.05.01.2",
+				"x": -0.0224,
+				"y": 1.0111,
+				"cluster": 112,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 168,
+				"label": "robb shawe (2023)",
+				"description": "<table><tr><td>Authors:</td><td>robb shawe</td></tr><tr><td>Title:</td><td>communication, leadership, and organizational skills in emergency response</td></tr><tr><td>Source:</td><td>open journal of business and management, 11(06), 2868-2874</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.4236/ojbm.2023.116158",
+				"x": -0.5327,
+				"y": 0.0051,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 169,
+				"label": "mohd said nurumal (2019)",
+				"description": "<table><tr><td>Authors:</td><td>mohd said nurumal</td></tr><tr><td>Title:</td><td>community experiences on prevention, preparedness and recovery of the flood disaster in cultural and local wisdom context</td></tr><tr><td>Source:</td><td>international journal of care scholars, 2(1), 13-22</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.31436/ijcs.v2i1.103",
+				"x": 0.7954,
+				"y": -0.4052,
+				"cluster": 113,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1591
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1591
+				}
+			},
+			{
+				"id": 170,
+				"label": "rogelio p. bayod (2016)",
+				"description": "<table><tr><td>Authors:</td><td>rogelio p. bayod; daisy mae abawag; jessa may luardo; jean padlan; j. urquidi macías</td></tr><tr><td>Title:</td><td>disaster preparedness in aplaya coastal community, digos city, philippines</td></tr><tr><td>Source:</td><td>iamure international journal of education, 17(1)</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.7718/iamure.ije.v17i1.1140",
+				"x": 0.2653,
+				"y": 0.5078,
+				"cluster": 114,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1059
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1059
+				}
+			},
+			{
+				"id": 171,
+				"label": "tobias nanz (2010)",
+				"description": "<table><tr><td>Authors:</td><td>tobias nanz</td></tr><tr><td>Title:</td><td>communication in crisis. the \"red phone\" and the \"hotline\"</td></tr><tr><td>Source:</td><td>[no source], 3(2), 71-83</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.6094/behemoth.2010.3.2.691",
+				"x": 0.9578,
+				"y": 0.2892,
+				"cluster": 115,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0163
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0163
+				}
+			},
+			{
+				"id": 172,
+				"label": "shubham pathak (2019)",
+				"description": "<table><tr><td>Authors:</td><td>shubham pathak</td></tr><tr><td>Title:</td><td>disaster crisis communication innovations</td></tr><tr><td>Source:</td><td>international journal of disaster response and emergency management, 2(2), 1-16</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.4018/ijdrem.2019070101",
+				"x": -0.6380,
+				"y": -0.0462,
+				"cluster": 5,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 18.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0795
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0795
+				}
+			},
+			{
+				"id": 173,
+				"label": "pindai m. sithole (2020)",
+				"description": "<table><tr><td>Authors:</td><td>pindai m. sithole; moses chundu</td></tr><tr><td>Title:</td><td>meteorological indigenous knowledge systems for prediction of rainfall in the chimanimani district of zimbabwe and potential for community disaster preparedness</td></tr><tr><td>Source:</td><td>open journal of social sciences, 08(10), 35-45</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.4236/jss.2020.810004",
+				"x": 0.4952,
+				"y": 0.6460,
+				"cluster": 116,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2018
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2018
+				}
+			},
+			{
+				"id": 174,
+				"label": "erika roxana meléndez landaverde (2020)",
+				"description": "<table><tr><td>Authors:</td><td>erika roxana meléndez landaverde; daniel sempere‐torres; marc berenguer</td></tr><tr><td>Title:</td><td>towards impact-based communication during emergencies: development of site-specific warning services in catalonia</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.5194/egusphere-egu2020-1011",
+				"x": 0.8591,
+				"y": 0.2361,
+				"cluster": 117,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2018
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2018
+				}
+			},
+			{
+				"id": 175,
+				"label": "m. yvette (2016)",
+				"description": "<table><tr><td>Authors:</td><td>m. yvette; brad dennis; mary ann; r michael</td></tr><tr><td>Title:</td><td>barangay disaster preparedness monitoring web application system</td></tr><tr><td>Source:</td><td>international journal of computer applications, 149(3), 9-16</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.5120/ijca2016911364",
+				"x": 0.5385,
+				"y": 0.2486,
+				"cluster": 118,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 176,
+				"label": "laura bergés saura and stylianos papathanassopoulos (2015)",
+				"description": "<table><tr><td>Authors:</td><td>laura bergés saura and stylianos papathanassopoulos</td></tr><tr><td>Title:</td><td>european communication and information industries in times of crisis: continuities and transformations</td></tr><tr><td>Source:</td><td>[no source], 63-81</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.4324/9781315708249-11",
+				"x": 0.4788,
+				"y": -0.8740,
+				"cluster": 119,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 177,
+				"label": "cara l. cuite (2013)",
+				"description": "<table><tr><td>Authors:</td><td>cara l. cuite; william k. hallman</td></tr><tr><td>Title:</td><td>social media and food crisis communication</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.7282/t3-cwm9-jd43",
+				"x": 0.3335,
+				"y": 0.6708,
+				"cluster": 120,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 178,
+				"label": "b.k khanna (2011)",
+				"description": "<table><tr><td>Authors:</td><td>b.k khanna; neena khanna</td></tr><tr><td>Title:</td><td>disasters: strengthening community mitigation and preparedness</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.59317/9789389907964",
+				"x": 0.4260,
+				"y": -0.7389,
+				"cluster": 121,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 179,
+				"label": "h. wayne nelson (2017)",
+				"description": "<table><tr><td>Authors:</td><td>h. wayne nelson; f. ellen netting; daniel agley</td></tr><tr><td>Title:</td><td>mixed-methods telephone survey: evaluating state ombudsman disaster program preparedness</td></tr><tr><td>Source:</td><td>sage publications ltd ebooks</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.4135/9781526420954",
+				"x": 0.3371,
+				"y": 0.8250,
+				"cluster": 122,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 180,
+				"label": "anonymous (2022b)",
+				"description": "<table><tr><td>Title:</td><td>crisis communication on twitter</td></tr><tr><td>Source:</td><td>bloomsbury academic ebooks</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.5040/9781350090712.0012",
+				"x": 0.7111,
+				"y": 0.2521,
+				"cluster": 123,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 181,
+				"label": "irene petraroli (2022)",
+				"description": "<table><tr><td>Authors:</td><td>irene petraroli; roger c. baars</td></tr><tr><td>Title:</td><td>disaster preparedness communication and perception of foreign residents in kansai, japan: a socio-cultural study</td></tr><tr><td>Source:</td><td>australian journal of emergency management, 10.47389/37(no 2), 81-89</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.47389/37.281",
+				"x": 0.3852,
+				"y": 0.2434,
+				"cluster": 124,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 182,
+				"label": "dwinarko (2022)",
+				"description": "<table><tr><td>Authors:</td><td>dwinarko; erita riski putri</td></tr><tr><td>Title:</td><td>crisis management of disaster communication in mitigation of covid-19 pandemic in indonesia</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.31219/osf.io/64ajk",
+				"x": -0.6542,
+				"y": 0.0539,
+				"cluster": 7,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 183,
+				"label": "yajie lan (2022)",
+				"description": "<table><tr><td>Authors:</td><td>yajie lan</td></tr><tr><td>Title:</td><td>new dilemma that social media poses for crisis communication</td></tr><tr><td>Source:</td><td>journal of humanities and social sciences studies, 4(3), 268-271</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.32996/jhsss.2022.4.3.30",
+				"x": -0.4630,
+				"y": -0.9235,
+				"cluster": 125,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 184,
+				"label": "akpan udo (2022)",
+				"description": "<table><tr><td>Authors:</td><td>akpan udo</td></tr><tr><td>Title:</td><td>communication and crisis information campaigns: perspectives of constructivism, conspiracy and misinformation of coivid-19 messages in west africa</td></tr><tr><td>Source:</td><td>journal of social sciences and management studies, 1(3), 109-118</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.56556/jssms.v1i3.248",
+				"x": 0.8477,
+				"y": -0.2855,
+				"cluster": 126,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 185,
+				"label": "faustyna (2022)",
+				"description": "<table><tr><td>Authors:</td><td>faustyna</td></tr><tr><td>Title:</td><td>implementation communication crisis public relations of digital media-based: internet use before, during, and after the covid19 crisis</td></tr><tr><td>Source:</td><td>advances in social science, education and humanities research/advances in social science, education and humanities research</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.2991/978-2-494069-07-7_33",
+				"x": 0.3350,
+				"y": 0.3796,
+				"cluster": 127,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 186,
+				"label": "w. timothy coombs (2022)",
+				"description": "<table><tr><td>Authors:</td><td>w. timothy coombs; sherry j. holladay</td></tr><tr><td>Title:</td><td>crisis communication as strategic communication: process and insights</td></tr><tr><td>Source:</td><td>edward elgar publishing ebooks, 259-273</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.4337/9781800379893.00025",
+				"x": -0.1100,
+				"y": 0.8215,
+				"cluster": 128,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 187,
+				"label": "alessandra mazzei (2022)",
+				"description": "<table><tr><td>Authors:</td><td>alessandra mazzei; silvia ravazzani</td></tr><tr><td>Title:</td><td>the strategic role of internal crisis communication</td></tr><tr><td>Source:</td><td>edward elgar publishing ebooks, 274-289</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.4337/9781800379893.00026",
+				"x": -0.0035,
+				"y": 0.7734,
+				"cluster": 129,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 188,
+				"label": "muhammad ridha ramadhan (2022)",
+				"description": "<table><tr><td>Authors:</td><td>muhammad ridha ramadhan; satia negara lubis; syafrudin pohan</td></tr><tr><td>Title:</td><td>triangle pase inc. public relations communication strategy. east aceh district in maintaining a corporate image during the covid-19 pandemic crisis</td></tr><tr><td>Source:</td><td>international journal of educational review, law and social sciences, 2(5), 621-632</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.54443/ijerlas.v2i5.370",
+				"x": -0.0168,
+				"y": -0.8996,
+				"cluster": 130,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 189,
+				"label": "abderraouf guembour (2018)",
+				"description": "<table><tr><td>Authors:</td><td>abderraouf guembour; raki nadira</td></tr><tr><td>Title:</td><td>role of communication and technology in crisis management</td></tr><tr><td>Source:</td><td>, 2(2), 96-96</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.26417/ejef.v2i2.p96-100",
+				"x": 0.9534,
+				"y": -0.3082,
+				"cluster": 131,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 190,
+				"label": "samantha cosgrove (2020)",
+				"description": "<table><tr><td>Authors:</td><td>samantha cosgrove</td></tr><tr><td>Title:</td><td>hurricane florence and disaster preparedness: investigating risk through the intersections of technical communication and user experience</td></tr><tr><td>Source:</td><td>[no source]</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.31274/etd-20200902-29",
+				"x": -0.4086,
+				"y": 0.8812,
+				"cluster": 132,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 191,
+				"label": "dodik kariadi (2020)",
+				"description": "<table><tr><td>Authors:</td><td>dodik kariadi; enok maryani; helius sjamsuddin; mamat ruhimat</td></tr><tr><td>Title:</td><td>teaching model for disaster preparedness school based earthquake prone earthquake in lombok</td></tr><tr><td>Source:</td><td>jetl (journal of education, teaching, and learning), 5(1), 185-185</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.26737/jetl.v5i1.1965",
+				"x": 0.4504,
+				"y": 0.7715,
+				"cluster": 133,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 192,
+				"label": "nisrine zammar (2021)",
+				"description": "<table><tr><td>Authors:</td><td>nisrine zammar</td></tr><tr><td>Title:</td><td>crisis communication in the age of social media and the case of dairy khoury</td></tr><tr><td>Source:</td><td>advances in logistics, operations, and management science book series, 2181-2196</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.4018/978-1-7998-3473-1.ch151",
+				"x": -0.6502,
+				"y": 0.0104,
+				"cluster": 9,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 24.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 193,
+				"label": "everlyn chelang’at kimibei (2021)",
+				"description": "<table><tr><td>Authors:</td><td>everlyn chelang’at kimibei; jonai wabwire</td></tr><tr><td>Title:</td><td>social media as amedium of crisis communication amongst university campuses in kisii county</td></tr><tr><td>Source:</td><td>new media and mass communication</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/https://doi.org/10.7176/nmmc/96-05",
+				"x": 0.0890,
+				"y": 0.7030,
+				"cluster": 134,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 7,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 10,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 11,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 14,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 16,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 25,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 30,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 31,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 38,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 42,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 43,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 97,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 117,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 152,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 157,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 182,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 192,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 18,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 140,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 10,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 138,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 149,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 154,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 8,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 9,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 16,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 27,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 8,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 8,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 9,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 10,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 42,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 91,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 9,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 10,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 10,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 16,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 87,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 14,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 16,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 97,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 132,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 138,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 149,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 62,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 41,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 18,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 117,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 16,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 25,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 30,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 31,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 38,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 67,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 70,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 81,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 117,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 151,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 154,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 182,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 53,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 30,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 31,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 70,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 172,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 182,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 192,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 87,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 91,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 27,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 53,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 102,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 140,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 38,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 152,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 94,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 138,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 31,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 38,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 67,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 97,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 117,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 132,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 157,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 192,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 38,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 97,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 117,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 152,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 182,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 94,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 117,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 160,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 182,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 97,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 107,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 117,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 53,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 56,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 101,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 53,
+				"target_id": 192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 67,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 110,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 162,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 91,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 86,
+				"target_id": 151,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 138,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 91,
+				"target_id": 100,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 91,
+				"target_id": 132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 97,
+				"target_id": 132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 97,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 172,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 172,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 182,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 192,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 132,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 138,
+				"target_id": 149,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 157,
+				"target_id": 192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 172,
+				"target_id": 192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 182,
+				"target_id": 192,
+				"strength": 1.0000
+			}
+		]
+	}
+}

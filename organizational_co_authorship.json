@@ -1,0 +1,591 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 48,
+				"label": "dakota state university",
+				"x": -0.9299,
+				"y": -0.0901,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 213.0000,
+					"Norm. citations": 3.6724
+				},
+				"scores": {
+					"Avg. pub. year": 2007.0000,
+					"Avg. citations": 213.0000,
+					"Avg. norm. citations": 3.6724
+				}
+			},
+			{
+				"id": 61,
+				"label": "florida international university",
+				"x": 1.2182,
+				"y": -0.0104,
+				"cluster": 5,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 57.0000,
+					"Norm. citations": 4.1479
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 57.0000,
+					"Avg. norm. citations": 4.1479
+				}
+			},
+			{
+				"id": 74,
+				"label": "georgia state university",
+				"x": -0.4801,
+				"y": -0.0056,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 61.0000,
+					"Norm. citations": 2.4937
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 61.0000,
+					"Avg. norm. citations": 2.4937
+				}
+			},
+			{
+				"id": 78,
+				"label": "grady memorial hospital",
+				"x": -0.5636,
+				"y": 0.1247,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Documents": 2.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 1.4444
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 4.5000,
+					"Avg. norm. citations": 0.7222
+				}
+			},
+			{
+				"id": 157,
+				"label": "massachusetts institute of technology",
+				"x": 1.2165,
+				"y": -0.0106,
+				"cluster": 5,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 57.0000,
+					"Norm. citations": 4.1479
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 57.0000,
+					"Avg. norm. citations": 4.1479
+				}
+			},
+			{
+				"id": 192,
+				"label": "north dakota state university",
+				"x": -0.9220,
+				"y": -0.0892,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Documents": 2.0000,
+					"Citations": 305.0000,
+					"Norm. citations": 5.0524
+				},
+				"scores": {
+					"Avg. pub. year": 2004.0000,
+					"Avg. citations": 152.5000,
+					"Avg. norm. citations": 2.5262
+				}
+			},
+			{
+				"id": 194,
+				"label": "northern arizona university",
+				"x": 1.1592,
+				"y": -0.0204,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.6803
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 7.0000,
+					"Avg. norm. citations": 0.6803
+				}
+			},
+			{
+				"id": 214,
+				"label": "purdue university system",
+				"x": -0.4792,
+				"y": -0.0057,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 61.0000,
+					"Norm. citations": 2.4937
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 61.0000,
+					"Avg. norm. citations": 2.4937
+				}
+			},
+			{
+				"id": 215,
+				"label": "purdue university west lafayette",
+				"x": 1.2174,
+				"y": -0.0121,
+				"cluster": 5,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 2.0000,
+					"Citations": 60.0000,
+					"Norm. citations": 4.6294
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5000,
+					"Avg. citations": 30.0000,
+					"Avg. norm. citations": 2.3147
+				}
+			},
+			{
+				"id": 303,
+				"label": "university of alabama",
+				"x": -0.5727,
+				"y": 0.1372,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 1.4444
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 9.0000,
+					"Avg. norm. citations": 1.4444
+				}
+			},
+			{
+				"id": 307,
+				"label": "university of arkansas at little rock",
+				"x": -0.9296,
+				"y": -0.0915,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 1.0000,
+					"Citations": 213.0000,
+					"Norm. citations": 3.6724
+				},
+				"scores": {
+					"Avg. pub. year": 2007.0000,
+					"Avg. citations": 213.0000,
+					"Avg. norm. citations": 3.6724
+				}
+			},
+			{
+				"id": 316,
+				"label": "university of california, santa barbara",
+				"x": -0.6941,
+				"y": -0.0406,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 12.3488
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 9.0000,
+					"Avg. norm. citations": 12.3488
+				}
+			},
+			{
+				"id": 320,
+				"label": "university of central florida",
+				"x": 1.1162,
+				"y": -0.0098,
+				"cluster": 3,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Documents": 9.0000,
+					"Citations": 402.0000,
+					"Norm. citations": 26.7050
+				},
+				"scores": {
+					"Avg. pub. year": 2016.6667,
+					"Avg. citations": 44.6667,
+					"Avg. norm. citations": 2.9672
+				}
+			},
+			{
+				"id": 324,
+				"label": "university of connecticut",
+				"x": 1.1585,
+				"y": -0.0203,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.6803
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 7.0000,
+					"Avg. norm. citations": 0.6803
+				}
+			},
+			{
+				"id": 326,
+				"label": "university of delaware",
+				"x": -0.5788,
+				"y": 0.1455,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 3.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 1.0040
+				},
+				"scores": {
+					"Avg. pub. year": 2017.3333,
+					"Avg. citations": 3.6667,
+					"Avg. norm. citations": 0.3347
+				}
+			},
+			{
+				"id": 331,
+				"label": "university of georgia",
+				"x": -0.5705,
+				"y": 0.1342,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Documents": 4.0000,
+					"Citations": 26.0000,
+					"Norm. citations": 4.1626
+				},
+				"scores": {
+					"Avg. pub. year": 2019.7500,
+					"Avg. citations": 6.5000,
+					"Avg. norm. citations": 1.0407
+				}
+			},
+			{
+				"id": 346,
+				"label": "university of maryland, college park",
+				"x": -0.4789,
+				"y": 0.0094,
+				"cluster": 2,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Documents": 6.0000,
+					"Citations": 294.0000,
+					"Norm. citations": 25.6890
+				},
+				"scores": {
+					"Avg. pub. year": 2017.1667,
+					"Avg. citations": 49.0000,
+					"Avg. norm. citations": 4.2815
+				}
+			},
+			{
+				"id": 353,
+				"label": "university of michigan–ann arbor",
+				"x": -0.8755,
+				"y": -0.0796,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 394,
+				"label": "university of toledo",
+				"x": 1.1586,
+				"y": -0.0004,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 1.9310
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 1.9310
+				}
+			},
+			{
+				"id": 398,
+				"label": "university of vermont",
+				"x": 1.1595,
+				"y": -0.0003,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 1.9310
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 1.9310
+				}
+			},
+			{
+				"id": 415,
+				"label": "virginia commonwealth university",
+				"x": -0.4759,
+				"y": 0.0101,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 194.0000,
+					"Norm. citations": 7.9308
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 194.0000,
+					"Avg. norm. citations": 7.9308
+				}
+			},
+			{
+				"id": 419,
+				"label": "wayne state university",
+				"x": -0.8533,
+				"y": -0.0746,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Documents": 5.0000,
+					"Citations": 446.0000,
+					"Norm. citations": 18.4013
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 89.2000,
+					"Avg. norm. citations": 3.6803
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 48,
+				"target_id": 192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 307,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 419,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 215,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 320,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 214,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 303,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 331,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 157,
+				"target_id": 215,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 157,
+				"target_id": 320,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 192,
+				"target_id": 307,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 192,
+				"target_id": 419,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 194,
+				"target_id": 320,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 194,
+				"target_id": 324,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 214,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 215,
+				"target_id": 320,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 303,
+				"target_id": 331,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 307,
+				"target_id": 419,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 316,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 316,
+				"target_id": 419,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 320,
+				"target_id": 324,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 320,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 320,
+				"target_id": 394,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 320,
+				"target_id": 398,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 326,
+				"target_id": 331,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 331,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 415,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 419,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 353,
+				"target_id": 419,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 394,
+				"target_id": 398,
+				"strength": 1.0000
+			}
+		]
+	}
+}

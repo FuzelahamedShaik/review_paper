@@ -1,0 +1,2277 @@
+{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"x": 0.0931,
+				"y": 0.1966,
+				"cluster": 4,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 2,
+				"label": "2021 third international sustainability and resilience conference: climate change",
+				"x": -0.2538,
+				"y": 0.5745,
+				"cluster": 5,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.4643
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 2.0000,
+					"Avg. norm. citations": 0.4643
+				}
+			},
+			{
+				"id": 3,
+				"label": "2021 winter simulation conference (wsc)",
+				"x": -0.2549,
+				"y": 0.3715,
+				"cluster": 6,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 4,
+				"label": "21st international communications satellite systems conference and exhibit",
+				"x": 0.7298,
+				"y": -0.2955,
+				"cluster": 7,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 2.3333
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000,
+					"Avg. citations": 14.0000,
+					"Avg. norm. citations": 2.3333
+				}
+			},
+			{
+				"id": 5,
+				"label": "advances in early childhood and k-12 education",
+				"x": 0.7683,
+				"y": 0.5086,
+				"cluster": 8,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1591
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 2.0000,
+					"Avg. norm. citations": 0.1591
+				}
+			},
+			{
+				"id": 6,
+				"label": "advances in intelligent systems and computing",
+				"x": -0.6856,
+				"y": -0.4049,
+				"cluster": 9,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.6154
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.6154
+				}
+			},
+			{
+				"id": 7,
+				"label": "advances in logistics, operations, and management science book series",
+				"x": -0.8791,
+				"y": -0.0467,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 8,
+				"label": "advances in social science, education and humanities research/advances in social science, education and humanities research",
+				"x": 0.2992,
+				"y": 0.2866,
+				"cluster": 10,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 9,
+				"label": "anatolia an international journal of tourism and hospitality/anatolia an international journal of tourism and hospitality research",
+				"x": 0.1517,
+				"y": -0.3819,
+				"cluster": 11,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 5.0000,
+					"Avg. norm. citations": 5.0000
+				}
+			},
+			{
+				"id": 10,
+				"label": "anthropological forum",
+				"x": 0.2384,
+				"y": 0.0479,
+				"cluster": 12,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.0341
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 13.0000,
+					"Avg. norm. citations": 1.0341
+				}
+			},
+			{
+				"id": 11,
+				"label": "applied ergonomics/applied ergonomics",
+				"x": -0.0725,
+				"y": 0.5335,
+				"cluster": 13,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 2.3158
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 33.0000,
+					"Avg. norm. citations": 2.3158
+				}
+			},
+			{
+				"id": 12,
+				"label": "australasian emergency care",
+				"x": 0.2729,
+				"y": 0.5502,
+				"cluster": 14,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.4348
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 10.0000,
+					"Avg. norm. citations": 0.4348
+				}
+			},
+			{
+				"id": 13,
+				"label": "australian journal of emergency management",
+				"x": 0.7137,
+				"y": 0.3201,
+				"cluster": 15,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 2.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 2.0893
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000,
+					"Avg. citations": 4.5000,
+					"Avg. norm. citations": 1.0446
+				}
+			},
+			{
+				"id": 14,
+				"label": "bloomsbury academic ebooks",
+				"x": 0.9226,
+				"y": -0.0109,
+				"cluster": 16,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 15,
+				"label": "british journal of surgery",
+				"x": -0.6664,
+				"y": -0.6378,
+				"cluster": 17,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.9286
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.9286
+				}
+			},
+			{
+				"id": 16,
+				"label": "business information review",
+				"x": 0.5345,
+				"y": 0.5816,
+				"cluster": 18,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2018
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.2018
+				}
+			},
+			{
+				"id": 17,
+				"label": "cartography and geographic information science",
+				"x": -0.7500,
+				"y": 0.1394,
+				"cluster": 19,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 39.0000,
+					"Norm. citations": 1.5600
+				},
+				"scores": {
+					"Avg. pub. year": 2009.0000,
+					"Avg. citations": 39.0000,
+					"Avg. norm. citations": 1.5600
+				}
+			},
+			{
+				"id": 18,
+				"label": "circular economy and sustainability/circular economy and sustainability",
+				"x": -0.3809,
+				"y": 0.0108,
+				"cluster": 20,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 1.3929
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 6.0000,
+					"Avg. norm. citations": 1.3929
+				}
+			},
+			{
+				"id": 19,
+				"label": "cogent education",
+				"x": 0.0021,
+				"y": -0.0015,
+				"cluster": 21,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 5.0000,
+					"Avg. norm. citations": 5.0000
+				}
+			},
+			{
+				"id": 20,
+				"label": "communication research and practice",
+				"x": 0.7619,
+				"y": -0.5212,
+				"cluster": 22,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.9886
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 25.0000,
+					"Avg. norm. citations": 1.9886
+				}
+			},
+			{
+				"id": 21,
+				"label": "communication studies",
+				"x": 0.5295,
+				"y": 0.2974,
+				"cluster": 23,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 22.0000,
+					"Norm. citations": 1.7500
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 22.0000,
+					"Avg. norm. citations": 1.7500
+				}
+			},
+			{
+				"id": 22,
+				"label": "communications in computer and information science",
+				"x": -0.8539,
+				"y": 0.3516,
+				"cluster": 24,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 23,
+				"label": "communications of international proceedings",
+				"x": 0.4075,
+				"y": -0.0959,
+				"cluster": 25,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 24,
+				"label": "computational intelligence and neuroscience",
+				"x": 0.4266,
+				"y": -0.6575,
+				"cluster": 26,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 3.0000,
+					"Avg. norm. citations": 3.0000
+				}
+			},
+			{
+				"id": 25,
+				"label": "computer communication review",
+				"x": 0.6338,
+				"y": 0.4581,
+				"cluster": 27,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.0650
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.0650
+				}
+			},
+			{
+				"id": 26,
+				"label": "computers & industrial engineering",
+				"x": 0.5599,
+				"y": -0.5727,
+				"cluster": 28,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 2.0000,
+					"Citations": 22.0000,
+					"Norm. citations": 2.0604
+				},
+				"scores": {
+					"Avg. pub. year": 2015.5000,
+					"Avg. citations": 11.0000,
+					"Avg. norm. citations": 1.0302
+				}
+			},
+			{
+				"id": 27,
+				"label": "computers in human behavior",
+				"x": -0.3105,
+				"y": 0.8706,
+				"cluster": 29,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 47.0000,
+					"Norm. citations": 3.2982
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 47.0000,
+					"Avg. norm. citations": 3.2982
+				}
+			},
+			{
+				"id": 28,
+				"label": "corporate communications",
+				"x": 0.6561,
+				"y": -0.4350,
+				"cluster": 30,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.4815
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 25.0000,
+					"Avg. norm. citations": 1.4815
+				}
+			},
+			{
+				"id": 29,
+				"label": "corvinus journal of sociology and social policy",
+				"x": 0.9027,
+				"y": 0.2118,
+				"cluster": 31,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.2609
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 6.0000,
+					"Avg. norm. citations": 0.2609
+				}
+			},
+			{
+				"id": 30,
+				"label": "crc press ebooks",
+				"x": -0.4143,
+				"y": 0.8237,
+				"cluster": 32,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 31,
+				"label": "disaster prevention and management",
+				"x": -0.0978,
+				"y": 0.7724,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 3.0000,
+					"Citations": 250.0000,
+					"Norm. citations": 2.8736
+				},
+				"scores": {
+					"Avg. pub. year": 2006.3333,
+					"Avg. citations": 83.3333,
+					"Avg. norm. citations": 0.9579
+				}
+			},
+			{
+				"id": 32,
+				"label": "disaster research and management series on the global south",
+				"x": 0.9159,
+				"y": 0.0982,
+				"cluster": 33,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 33,
+				"label": "disaster risk reduction",
+				"x": -0.6053,
+				"y": -0.1062,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 2.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.4643
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000,
+					"Avg. citations": 1.5000,
+					"Avg. norm. citations": 0.7321
+				}
+			},
+			{
+				"id": 34,
+				"label": "discourse approaches to politics, society and culture",
+				"x": 0.0910,
+				"y": 0.6204,
+				"cluster": 34,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 2.0000,
+					"Avg. norm. citations": 2.0000
+				}
+			},
+			{
+				"id": 35,
+				"label": "e3s web of conferences",
+				"x": 0.6305,
+				"y": 0.6759,
+				"cluster": 35,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 36,
+				"label": "edward elgar publishing ebooks",
+				"x": -0.7509,
+				"y": -0.2659,
+				"cluster": 36,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 37,
+				"label": "emerald publishing limited ebooks",
+				"x": -0.5799,
+				"y": -0.5268,
+				"cluster": 37,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 2.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.7252
+				},
+				"scores": {
+					"Avg. pub. year": 2019.5000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.3626
+				}
+			},
+			{
+				"id": 38,
+				"label": "european journal of operational research",
+				"x": 0.6037,
+				"y": -0.0631,
+				"cluster": 38,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 146.0000,
+					"Norm. citations": 6.3478
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 146.0000,
+					"Avg. norm. citations": 6.3478
+				}
+			},
+			{
+				"id": 39,
+				"label": "facta universitatis. series: working and living environmental protection/facta universitatis. series: working and living environmental       protection",
+				"x": 0.5437,
+				"y": 0.7434,
+				"cluster": 39,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2321
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.2321
+				}
+			},
+			{
+				"id": 40,
+				"label": "human and ecological risk assessment",
+				"x": -0.1714,
+				"y": 0.1326,
+				"cluster": 40,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8421
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 12.0000,
+					"Avg. norm. citations": 0.8421
+				}
+			},
+			{
+				"id": 41,
+				"label": "iamure international journal of education",
+				"x": 0.6949,
+				"y": -0.6066,
+				"cluster": 41,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1059
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.1059
+				}
+			},
+			{
+				"id": 42,
+				"label": "iceri proceedings",
+				"x": -0.0443,
+				"y": -0.4470,
+				"cluster": 42,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 43,
+				"label": "ieee aerospace and electronic systems magazine",
+				"x": -0.5765,
+				"y": 0.1243,
+				"cluster": 43,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 34.0000,
+					"Norm. citations": 1.4167
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 34.0000,
+					"Avg. norm. citations": 1.4167
+				}
+			},
+			{
+				"id": 44,
+				"label": "ieee internet of things journal",
+				"x": -0.5072,
+				"y": 0.7697,
+				"cluster": 44,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 4.8440
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 24.0000,
+					"Avg. norm. citations": 4.8440
+				}
+			},
+			{
+				"id": 45,
+				"label": "ieee wireless communications",
+				"x": 0.0221,
+				"y": -0.9253,
+				"cluster": 45,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 63.0000,
+					"Norm. citations": 5.0114
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 63.0000,
+					"Avg. norm. citations": 5.0114
+				}
+			},
+			{
+				"id": 46,
+				"label": "indonesian journal of cultural and community development",
+				"x": -0.0651,
+				"y": 0.3248,
+				"cluster": 46,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 47,
+				"label": "international business & economics studies",
+				"x": 0.2534,
+				"y": 0.8855,
+				"cluster": 47,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 48,
+				"label": "international journal for research in applied science and engineering technology",
+				"x": -0.6625,
+				"y": 0.4360,
+				"cluster": 48,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 49,
+				"label": "international journal of business and management",
+				"x": 0.4202,
+				"y": 0.4457,
+				"cluster": 49,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 50,
+				"label": "international journal of care scholars",
+				"x": 0.7674,
+				"y": -0.1459,
+				"cluster": 50,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1591
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 2.0000,
+					"Avg. norm. citations": 0.1591
+				}
+			},
+			{
+				"id": 51,
+				"label": "international journal of computer applications",
+				"x": -0.1846,
+				"y": -0.7641,
+				"cluster": 51,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 52,
+				"label": "international journal of crisis communication",
+				"x": -0.5928,
+				"y": 0.7052,
+				"cluster": 52,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 53,
+				"label": "international journal of critical infrastructures",
+				"x": 0.1316,
+				"y": -0.9129,
+				"cluster": 53,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 54,
+				"label": "international journal of disaster response and emergency management",
+				"x": -0.8942,
+				"y": -0.0479,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0795
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.0795
+				}
+			},
+			{
+				"id": 55,
+				"label": "international journal of disaster risk reduction",
+				"x": -0.5004,
+				"y": -0.7733,
+				"cluster": 54,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 3.0000,
+					"Citations": 63.0000,
+					"Norm. citations": 15.5661
+				},
+				"scores": {
+					"Avg. pub. year": 2021.6667,
+					"Avg. citations": 21.0000,
+					"Avg. norm. citations": 5.1887
+				}
+			},
+			{
+				"id": 56,
+				"label": "international journal of educational review, law and social sciences",
+				"x": -0.2054,
+				"y": 0.9030,
+				"cluster": 55,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 57,
+				"label": "international journal of emergency management",
+				"x": -0.1989,
+				"y": -0.0964,
+				"cluster": 56,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.0488
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000,
+					"Avg. citations": 3.0000,
+					"Avg. norm. citations": 0.0488
+				}
+			},
+			{
+				"id": 58,
+				"label": "international journal of environmental sciences and development/international journal of environmental science and development",
+				"x": -0.0798,
+				"y": 0.9284,
+				"cluster": 57,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 59,
+				"label": "international journal of geomate",
+				"x": 0.8162,
+				"y": -0.4264,
+				"cluster": 58,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 60,
+				"label": "international journal of human-computer interaction",
+				"x": 0.1741,
+				"y": -0.1566,
+				"cluster": 59,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.6000
+				},
+				"scores": {
+					"Avg. pub. year": 2004.0000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 1.6000
+				}
+			},
+			{
+				"id": 61,
+				"label": "international journal of humanities & social studies",
+				"x": 0.8211,
+				"y": 0.4172,
+				"cluster": 60,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 62,
+				"label": "international journal of humanities education and social sciences",
+				"x": 0.4524,
+				"y": 0.8046,
+				"cluster": 61,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 63,
+				"label": "international journal of management practice",
+				"x": -0.3760,
+				"y": -0.2149,
+				"cluster": 62,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.1591
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 2.0000,
+					"Avg. norm. citations": 0.1591
+				}
+			},
+			{
+				"id": 64,
+				"label": "international journal of mass emergencies and disasters/international journal of mass emergencies & disasters",
+				"x": 0.8645,
+				"y": 0.3178,
+				"cluster": 63,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.3913
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 9.0000,
+					"Avg. norm. citations": 0.3913
+				}
+			},
+			{
+				"id": 65,
+				"label": "international journal of multicultural and multireligious understanding",
+				"x": -0.5435,
+				"y": 0.3095,
+				"cluster": 64,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 66,
+				"label": "international journal of research and review",
+				"x": 0.7831,
+				"y": 0.1760,
+				"cluster": 65,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 67,
+				"label": "iop conference series. earth and environmental science",
+				"x": 0.4065,
+				"y": 0.6744,
+				"cluster": 66,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 6.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.4627
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 1.3333,
+					"Avg. norm. citations": 0.2438
+				}
+			},
+			{
+				"id": 68,
+				"label": "iop conference series. materials science and engineering",
+				"x": -0.2977,
+				"y": 0.7409,
+				"cluster": 67,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.6147
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 8.0000,
+					"Avg. norm. citations": 1.6147
+				}
+			},
+			{
+				"id": 69,
+				"label": "jcom, journal of science communication",
+				"x": -0.8056,
+				"y": 0.4479,
+				"cluster": 68,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.4128
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 7.0000,
+					"Avg. norm. citations": 1.4128
+				}
+			},
+			{
+				"id": 70,
+				"label": "jetl (journal of education, teaching, and learning)",
+				"x": 0.3382,
+				"y": -0.8573,
+				"cluster": 69,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 71,
+				"label": "journal of behavioral and applied management",
+				"x": 0.1066,
+				"y": 0.7916,
+				"cluster": 70,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 72,
+				"label": "journal of contingencies and crisis management",
+				"x": -0.9072,
+				"y": 0.1526,
+				"cluster": 71,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 2.0000,
+					"Citations": 44.0000,
+					"Norm. citations": 4.0104
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 22.0000,
+					"Avg. norm. citations": 2.0052
+				}
+			},
+			{
+				"id": 73,
+				"label": "journal of disaster research",
+				"x": 0.1340,
+				"y": -0.5917,
+				"cluster": 72,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.1264
+				},
+				"scores": {
+					"Avg. pub. year": 2008.0000,
+					"Avg. citations": 11.0000,
+					"Avg. norm. citations": 0.1264
+				}
+			},
+			{
+				"id": 74,
+				"label": "journal of humanitarian logistics and supply chain management",
+				"x": 0.2843,
+				"y": -0.7245,
+				"cluster": 73,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 1.4054
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 2.0000,
+					"Avg. norm. citations": 1.4054
+				}
+			},
+			{
+				"id": 75,
+				"label": "journal of humanities and social sciences studies",
+				"x": 0.1476,
+				"y": 0.9138,
+				"cluster": 74,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 76,
+				"label": "journal of intelligent & fuzzy systems",
+				"x": -0.0291,
+				"y": -0.2320,
+				"cluster": 75,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 2.0000,
+					"Avg. norm. citations": 2.0000
+				}
+			},
+			{
+				"id": 77,
+				"label": "journal of international communication",
+				"x": 0.4737,
+				"y": -0.4259,
+				"cluster": 76,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.4583
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 11.0000,
+					"Avg. norm. citations": 0.4583
+				}
+			},
+			{
+				"id": 78,
+				"label": "journal of pragmatics",
+				"x": -0.3065,
+				"y": -0.8681,
+				"cluster": 77,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 2.0000,
+					"Avg. norm. citations": 2.0000
+				}
+			},
+			{
+				"id": 79,
+				"label": "journal of radio & audio media",
+				"x": -0.7354,
+				"y": -0.5541,
+				"cluster": 78,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.4148
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 7.0000,
+					"Avg. norm. citations": 0.4148
+				}
+			},
+			{
+				"id": 80,
+				"label": "journal of risk research",
+				"x": -0.8839,
+				"y": 0.2490,
+				"cluster": 79,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.6055
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 3.0000,
+					"Avg. norm. citations": 0.6055
+				}
+			},
+			{
+				"id": 81,
+				"label": "journal of social sciences and management studies",
+				"x": 0.3093,
+				"y": -0.5208,
+				"cluster": 80,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 82,
+				"label": "journal of strategic innovation and sustainability",
+				"x": -0.7315,
+				"y": 0.2883,
+				"cluster": 81,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 1.1136
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 14.0000,
+					"Avg. norm. citations": 1.1136
+				}
+			},
+			{
+				"id": 83,
+				"label": "journal of urban affairs",
+				"x": -0.8860,
+				"y": -0.2598,
+				"cluster": 82,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 2.0183
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 10.0000,
+					"Avg. norm. citations": 2.0183
+				}
+			},
+			{
+				"id": 84,
+				"label": "journal of visual languages and computing",
+				"x": 0.6153,
+				"y": -0.6910,
+				"cluster": 83,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 22.0000,
+					"Norm. citations": 1.6923
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 22.0000,
+					"Avg. norm. citations": 1.6923
+				}
+			},
+			{
+				"id": 85,
+				"label": "lecture notes on data engineering and communications technologies",
+				"x": 0.8636,
+				"y": -0.3272,
+				"cluster": 84,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 1.2110
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 6.0000,
+					"Avg. norm. citations": 1.2110
+				}
+			},
+			{
+				"id": 86,
+				"label": "lecture notes on information theory",
+				"x": 0.4309,
+				"y": 0.1177,
+				"cluster": 85,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 87,
+				"label": "library hi tech",
+				"x": -0.0519,
+				"y": -0.6368,
+				"cluster": 86,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 3.9464
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 17.0000,
+					"Avg. norm. citations": 3.9464
+				}
+			},
+			{
+				"id": 88,
+				"label": "mass communication & society",
+				"x": -0.4257,
+				"y": 0.4576,
+				"cluster": 87,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.7027
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.7027
+				}
+			},
+			{
+				"id": 89,
+				"label": "natural hazards and earth system sciences",
+				"x": -0.5645,
+				"y": 0.5605,
+				"cluster": 88,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.9886
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 25.0000,
+					"Avg. norm. citations": 1.9886
+				}
+			},
+			{
+				"id": 90,
+				"label": "new media and mass communication",
+				"x": 0.4334,
+				"y": -0.8114,
+				"cluster": 89,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 91,
+				"label": "new security challenges",
+				"x": -0.2233,
+				"y": -0.3426,
+				"cluster": 90,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 92,
+				"label": "newspaper research journal",
+				"x": -0.8011,
+				"y": -0.4639,
+				"cluster": 91,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.6316
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 9.0000,
+					"Avg. norm. citations": 0.6316
+				}
+			},
+			{
+				"id": 93,
+				"label": "nordicom review/nordicom review",
+				"x": 0.9131,
+				"y": -0.1172,
+				"cluster": 92,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.3509
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000,
+					"Avg. citations": 5.0000,
+					"Avg. norm. citations": 0.3509
+				}
+			},
+			{
+				"id": 94,
+				"label": "oecd working papers on public governance",
+				"x": -0.0219,
+				"y": -0.8033,
+				"cluster": 93,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 66.0000,
+					"Norm. citations": 2.7500
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 66.0000,
+					"Avg. norm. citations": 2.7500
+				}
+			},
+			{
+				"id": 95,
+				"label": "open access government",
+				"x": -0.3322,
+				"y": -0.7112,
+				"cluster": 94,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 96,
+				"label": "open journal of business and management",
+				"x": -0.2335,
+				"y": -0.5608,
+				"cluster": 95,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 97,
+				"label": "open journal of social sciences",
+				"x": 0.5583,
+				"y": -0.2490,
+				"cluster": 96,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2018
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.2018
+				}
+			},
+			{
+				"id": 98,
+				"label": "organization & environment",
+				"x": 0.7026,
+				"y": 0.5945,
+				"cluster": 97,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 99,
+				"label": "oxford research encyclopedia of politics",
+				"x": -0.8488,
+				"y": -0.3630,
+				"cluster": 98,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0795
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.0795
+				}
+			},
+			{
+				"id": 100,
+				"label": "pacific journalism review",
+				"x": 0.5271,
+				"y": -0.7567,
+				"cluster": 99,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 101,
+				"label": "papers in applied geography",
+				"x": -0.5874,
+				"y": -0.7091,
+				"cluster": 100,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1538
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.1538
+				}
+			},
+			{
+				"id": 102,
+				"label": "prehospital emergency care",
+				"x": 0.3555,
+				"y": 0.8491,
+				"cluster": 101,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.9286
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.9286
+				}
+			},
+			{
+				"id": 103,
+				"label": "procedia computer science",
+				"x": -0.6059,
+				"y": -0.1051,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 3.8462
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 25.0000,
+					"Avg. norm. citations": 3.8462
+				}
+			},
+			{
+				"id": 104,
+				"label": "procedia economics and finance",
+				"x": 0.1336,
+				"y": -0.7724,
+				"cluster": 102,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 23.0000,
+					"Norm. citations": 2.4353
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 23.0000,
+					"Avg. norm. citations": 2.4353
+				}
+			},
+			{
+				"id": 105,
+				"label": "procedia engineering",
+				"x": 0.0349,
+				"y": 0.9203,
+				"cluster": 103,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 1.3043
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 30.0000,
+					"Avg. norm. citations": 1.3043
+				}
+			},
+			{
+				"id": 106,
+				"label": "procedia: social & behavioral sciences",
+				"x": -0.5318,
+				"y": -0.3348,
+				"cluster": 104,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.3750
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 9.0000,
+					"Avg. norm. citations": 0.3750
+				}
+			},
+			{
+				"id": 107,
+				"label": "production and operations management",
+				"x": 0.2581,
+				"y": 0.7389,
+				"cluster": 105,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 14.7568
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 21.0000,
+					"Avg. norm. citations": 14.7568
+				}
+			},
+			{
+				"id": 108,
+				"label": "public management review",
+				"x": -0.4617,
+				"y": -0.6296,
+				"cluster": 106,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 89.0000,
+					"Norm. citations": 5.2741
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 89.0000,
+					"Avg. norm. citations": 5.2741
+				}
+			},
+			{
+				"id": 109,
+				"label": "public relations review",
+				"x": -0.8856,
+				"y": -0.0609,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 3.0000,
+					"Citations": 37.0000,
+					"Norm. citations": 5.6877
+				},
+				"scores": {
+					"Avg. pub. year": 2017.3333,
+					"Avg. citations": 12.3333,
+					"Avg. norm. citations": 1.8959
+				}
+			},
+			{
+				"id": 110,
+				"label": "research square (research square)",
+				"x": 0.1320,
+				"y": 0.4163,
+				"cluster": 107,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.2321
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.2321
+				}
+			},
+			{
+				"id": 111,
+				"label": "review of corporate finance",
+				"x": -0.3740,
+				"y": 0.2096,
+				"cluster": 108,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 4.2162
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 6.0000,
+					"Avg. norm. citations": 4.2162
+				}
+			},
+			{
+				"id": 112,
+				"label": "risk, hazards & crisis in public policy",
+				"x": -0.0985,
+				"y": 0.7733,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 113,
+				"label": "sage publications ltd ebooks",
+				"x": -0.0952,
+				"y": -0.9183,
+				"cluster": 109,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 114,
+				"label": "scandinavian journal of surgery",
+				"x": 0.6228,
+				"y": 0.1238,
+				"cluster": 110,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.0000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 115,
+				"label": "scholars international journal of law, crime and justice",
+				"x": -0.4310,
+				"y": 0.6514,
+				"cluster": 111,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.6055
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 3.0000,
+					"Avg. norm. citations": 0.6055
+				}
+			},
+			{
+				"id": 116,
+				"label": "shs web of conferences",
+				"x": -0.3920,
+				"y": -0.4591,
+				"cluster": 112,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1538
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.1538
+				}
+			},
+			{
+				"id": 117,
+				"label": "smart innovation, systems and technologies",
+				"x": 0.8936,
+				"y": -0.2235,
+				"cluster": 113,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 2.0000,
+					"Avg. norm. citations": 2.0000
+				}
+			},
+			{
+				"id": 118,
+				"label": "social science research network",
+				"x": -0.6771,
+				"y": 0.6300,
+				"cluster": 114,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 119,
+				"label": "technical communication quarterly",
+				"x": 0.7856,
+				"y": 0.0115,
+				"cluster": 115,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 45.0000,
+					"Norm. citations": 1.8750
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 45.0000,
+					"Avg. norm. citations": 1.8750
+				}
+			},
+			{
+				"id": 120,
+				"label": "the world bank ebooks",
+				"x": -0.4079,
+				"y": -0.8281,
+				"cluster": 116,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 121,
+				"label": "transportation research record",
+				"x": -0.7466,
+				"y": 0.5438,
+				"cluster": 117,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 62.0000,
+					"Norm. citations": 2.6957
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 62.0000,
+					"Avg. norm. citations": 2.6957
+				}
+			},
+			{
+				"id": 122,
+				"label": "western journal of communication",
+				"x": -0.2024,
+				"y": -0.9004,
+				"cluster": 118,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 2.8108
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 2.8108
+				}
+			},
+			{
+				"id": 123,
+				"label": "wiley ebooks",
+				"x": -0.8863,
+				"y": -0.0519,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Documents": 2.0000,
+					"Citations": 475.0000,
+					"Norm. citations": 12.3839
+				},
+				"scores": {
+					"Avg. pub. year": 2013.0000,
+					"Avg. citations": 237.5000,
+					"Avg. norm. citations": 6.1920
+				}
+			},
+			{
+				"id": 124,
+				"label": "wit transactions on the built environment",
+				"x": 0.2371,
+				"y": -0.8886,
+				"cluster": 119,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0769
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.0769
+				}
+			},
+			{
+				"id": 125,
+				"label": "zenodo (cern european organization for nuclear research)",
+				"x": 0.3398,
+				"y": -0.2909,
+				"cluster": 120,
+				"weights": {
+					"Links": 0.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 7,
+				"target_id": 123
+			},
+			{
+				"source_id": 31,
+				"target_id": 112
+			},
+			{
+				"source_id": 33,
+				"target_id": 103
+			},
+			{
+				"source_id": 54,
+				"target_id": 123
+			},
+			{
+				"source_id": 109,
+				"target_id": 123
+			}
+		]
+	}
+}
